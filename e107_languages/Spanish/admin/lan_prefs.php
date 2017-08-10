@@ -256,6 +256,7 @@ define("PRFLAN_272", "Vida útil de la sesión");
 define("PRFLAN_273", "Tiempo de vida en segundos. 0 = hasta que el navegador esté cerrado.");
 define("PRFLAN_274", "Formulario de contacto sólo será visible para este grupo de clase de usuario.");
 define("PRFLAN_275", "Ver esta página usando https (SSL) para modificar esta opción");
+define("PRFLAN_276", "Predeterminado de PHP (Preferido)");
 
 
 ?>

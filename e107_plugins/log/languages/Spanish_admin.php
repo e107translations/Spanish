@@ -86,6 +86,11 @@ define("ADSTAT_LAN_83", "Siguientes entradas de identificación de registro quit
 define("ADSTAT_LAN_84", "Este procedimiento se sobreponen a los resúmenes estadísticos de registro en su base de datos. (Archivos de registro bruto se dejan sin modificar) Una vez reemplazado, los datos no se pueden recuperar. Por favor, copia de seguridad o exportar su base de datos de primero");
 define("ADSTAT_LAN_85", "Se han encontrado archivos [x] log. Haga clic en el botón de abajo para procesar estos archivos.");
 define("ADSTAT_LAN_86", "Visitantes total");
+define("ADSTAT_LAN_87", "Reconstruir los resúmenes estadísticos");
+define("ADSTAT_LAN_88", "Reconstruir estadísticas");
+define("ADSTAT_LAN_89", "Reconstruir");
+define("ADSTAT_LAN_90", "Datos guardados en la base de datos con id: [x]");
+define("ADSTAT_LAN_91", "No se pudieron guardar datos en la base de datos con id: [x]");
 
 
 ?>

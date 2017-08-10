@@ -1,8 +1,14 @@
 <?php
-
-// Bing-Translated Language file 
-// Generated for e107 v2.x by the Multi-Language Plugin
-// https://github.com/e107inc/multilan
+/*
++---------------------------------------------------------------+
+|        e107 website content management system Spanish Language File
+|        Released under the terms and conditions of the
+|        GNU General Public License (http://gnu.org).
+|        Last Modified: 2017/04/04 13:19:32
+|
+|        $Author: Norwayman $
++---------------------------------------------------------------+
+*/
 
 define("LAN_CONVERT_03", "Se debe iniciar con una base E107 limpia, que no sea el usuario administrador principal (ID = 1)");
 define("LAN_CONVERT_04", "Campos dejaron en blanco, por favor regrese y vuelva a introducir los valores.");
@@ -58,3 +64,24 @@ define("LAN_CONVERT_53", "El sitio URL de Drupal base (por ejemplo, http://mydru
 define("LAN_CONVERT_54", "URL Base de Drupal");
 define("LAN_CONVERT_55", "La ruta URL base (es decir, directorio) de la instalación de Drupal (p. ej., / drupal /).");
 define("LAN_CONVERT_56", "Ruta Base Drupal");
+define("LAN_CONVERT_57", "No hay error");
+define("LAN_CONVERT_58", "No se pueden modificar los datos de administración principales");
+define("LAN_CONVERT_59", "Campo no válido pasado");
+define("LAN_CONVERT_60", "Campo obligatorio no establecido");
+define("LAN_CONVERT_61", "El usuario ya existe");
+define("LAN_CONVERT_62", "Caracteres no válidos en el nombre de usuario o de inicio de sesión");
+define("LAN_CONVERT_63", "Error al salvar campos de usuario extendidos");
+define("LAN_CONVERT_64", "Seleccionar");
+define("LAN_CONVERT_65", "Páginas");
+define("LAN_CONVERT_66", "Capítulos de la página");
+define("LAN_CONVERT_67", "Enlaces");
+define("LAN_CONVERT_68", "Media");
+define("LAN_CONVERT_69", "Foro");
+define("LAN_CONVERT_70", "Temas del Foro/Hilos");
+define("LAN_CONVERT_71", "Mensajes de foro");
+define("LAN_CONVERT_72", "Seguimiento del Foro");
+define("LAN_CONVERT_73", "Clases de usuario");
+define("LAN_CONVERT_74", "Categorías de Noticias");
+
+
+?>

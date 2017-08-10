@@ -126,7 +126,6 @@ define("LAN_MAILOUT_129", "Fecha de caducidad");
 define("LAN_MAILOUT_130", "Fecha de creación");
 define("LAN_MAILOUT_131", "Envío iniciado");
 define("LAN_MAILOUT_132", "Envío completo");
-define("LAN_MAILOUT_133", "Fuente");
 define("LAN_MAILOUT_134", "Prioridad");
 define("LAN_MAILOUT_136", "Estado salgan");
 define("LAN_MAILOUT_137", "Ref correo");
@@ -259,6 +258,8 @@ define("LAN_MAILOUT_266", "Activo máximo");
 define("LAN_MAILOUT_267", "Generar claves públicas/privadas");
 define("LAN_MAILOUT_268", "Modo de desarrollador solamente");
 define("LAN_MAILOUT_269", "Envíar después");
+define("LAN_MAILOUT_270", "Prueba de conexión SMTP");
+define("LAN_MAILOUT_271", "Error de autenticación con nombre de usuario ([x]) y contraseña ([y]):");
 
 
 ?>

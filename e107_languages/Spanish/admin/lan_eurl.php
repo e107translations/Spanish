@@ -90,6 +90,7 @@ define("LAN_EURL_CORE_INDEX_INFO", "Frontal página no puede tener un alias.");
 define("LAN_EURL_REBUILD", "Reconstruir");
 define("LAN_EURL_REGULAR_EXPRESSION", "Expresión regular");
 define("LAN_EURL_KEY", "Llave");
+define("LAN_EURL_TABLE", "Tabla");
 
 
 ?>

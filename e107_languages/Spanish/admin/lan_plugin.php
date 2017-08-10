@@ -248,6 +248,7 @@ define("EPL_ADLAN_243", "Actualizando preferencias:");
 define("EPL_ADLAN_244", "Sólo se permiten 5 categorías de medios durante la instalación.");
 define("EPL_ADLAN_245", "Agregando categoría de medios: [x]");
 define("EPL_ADLAN_246", "Eliminando todas las categorías de medios propiedad de: [x]");
+define("EPL_ADLAN_247", "Actualizaciones que se instalarán");
 define("EPL_ADLAN_249", "Agregando campo extendido:");
 define("EPL_ADLAN_250", "Quitando campo extendido:");
 define("EPL_ADLAN_251", "Campo extendido en el lugar:");

@@ -1,8 +1,14 @@
 <?php
-
-// Bing-Translated Language file 
-// Generated for e107 v2.x by the Multi-Language Plugin
-// https://github.com/e107inc/multilan
+/*
++---------------------------------------------------------------+
+|        e107 website content management system Spanish Language File
+|        Released under the terms and conditions of the
+|        GNU General Public License (http://gnu.org).
+|        Last Modified: 2017/04/16 01:51:39
+|
+|        $Author: Norwayman $
++---------------------------------------------------------------+
+*/
 
 define("BANLAN_2", "No hay prohibiciones en lista.");
 define("BANLAN_3", "Prohibiciones existentes");
@@ -117,3 +123,7 @@ define("BANLAN_122", "Lista negra");
 define("BANLAN_123", "Añadir a lista negra");
 define("BANLAN_124", "Vence");
 define("BANLAN_125", "Uso mi IP");
+define("BANLAN_126", "IP / Correo eletrónico");
+
+
+?>

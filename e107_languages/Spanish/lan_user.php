@@ -88,6 +88,12 @@ define("LAN_XUP_ERRM_03", "¡Error de inicio de sesion! Mal proveedor.");
 define("LAN_XUP_ERRM_04", "¡Registro fallido! El usuario ya ha iniciado sesión.");
 define("LAN_XUP_ERRM_05", "¡Registro fallido! El usuario ya existe. Por favor, utilice 'login' en su lugar.");
 define("LAN_XUP_ERRM_06", "¡Registro fallido! No se puede acceder al correo electrónico del usuario - registro sin un correo electrónico es imposible.");
+define("LAN_XUP_ERRM_07", "Probador de inicio de sesión social");
+define("LAN_XUP_ERRM_08", "Salga de e107 antes de probar el procedimiento de inicio de sesión / registro de nuevo usuario.");
+define("LAN_XUP_ERRM_09", "Pruebe el inicio de sesión sólo con [x]");
+define("LAN_XUP_ERRM_10", "Prueba de registro/inicio de sesión con [x]");
+define("LAN_XUP_ERRM_11", "Conectado:");
+define("LAN_XUP_ERRM_12", "Salida de prueba");
 
 
 ?>

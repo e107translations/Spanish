@@ -9,7 +9,6 @@
 |        $Author: Norwayman $
 +---------------------------------------------------------------+
 */
-
 define("LAN_CHECK_2", "Verificar");
 define("LAN_CHECK_3", "Verificación de la");
 define("LAN_CHECK_4", "Archivo que falta.");
@@ -26,6 +25,10 @@ define("LAN_CHECK_26", "Frente");
 define("LAN_CHECK_PAGE_TITLE", "Idiomas");
 define("LAN_CHECK_27", "Número de errores de paquete de idioma encontrados");
 define("LAN_CHECK_28", "Identicos");
+define("LAN_CHECK_29", "Cadena idéntica (sólo advertencia)");
+define("LAN_CHECK_30", "Faltando bbcodes");
+define("LAN_CHECK_31", "Falta de [ y/o ] carácter (es)");
+define("LAN_CHECK_32", "Etiquetas HTML que faltan");
 define("LANG_LAN_23", "Crear el paquete de idioma (zip)");
 define("LANG_LAN_30", "Fecha de lanzamiento");
 define("LANG_LAN_31", "Compatibilidad");

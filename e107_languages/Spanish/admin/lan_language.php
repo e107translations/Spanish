@@ -63,6 +63,8 @@ define("LANG_LAN_144", "Debe volver a habilitarse");
 define("LANG_LAN_148", "Modo normal");
 define("LANG_LAN_149", "Valor");
 define("LANG_LAN_150", "[b] Buscar todo el núcleo antes de comentar cualquier LAN de cualquier archivo de idioma. [/b]");
+define("LANG_LAN_151", "Disponible");
+define("LANG_LAN_152", "Cortesía del [equipo de traducciones de e107]");
 
 
 ?>

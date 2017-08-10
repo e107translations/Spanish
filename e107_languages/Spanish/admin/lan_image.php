@@ -181,6 +181,8 @@ define("IMALAN_176", "Se ha producido un problema al cargar el archivo");
 define("IMALAN_177", "Haga clic aquí para obtener más información y para ingresar su clave de api");
 define("IMALAN_178", "Carpeta Avatars (seleccionable por el usuario)");
 define("IMALAN_179", "Carpeta Avatars (privado)");
+define("IMALAN_180", "0 archivo de byte encontrado en:");
+define("IMALAN_181", "Quite antes de continuar.");
 
 
 ?>

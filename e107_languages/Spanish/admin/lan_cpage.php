@@ -9,7 +9,11 @@
 |        $Author: Norwayman $
 +---------------------------------------------------------------+
 */
-
+define("CUSLAN_1", "Visión de conjunto");
+define("CUSLAN_2", "Título de la página");
+define("CUSLAN_3", "Artículos por página");
+define("CUSLAN_4", "Campos Personalizados");
+define("CUSLAN_5", "(Nuevo libro)");
 define("CUSLAN_9", "Texto");
 define("CUSLAN_11", "Descripción de la meta");
 define("CUSLAN_12", "Página de menú");
