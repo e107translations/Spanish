@@ -183,6 +183,5 @@ define("IMALAN_178", "Carpeta Avatars (seleccionable por el usuario)");
 define("IMALAN_179", "Carpeta Avatars (privado)");
 define("IMALAN_180", "0 archivo de byte encontrado en:");
 define("IMALAN_181", "Quite antes de continuar.");
-
-
-?>
+define("IMALAN_182", "Convierte a jpeg durante la importación");
+define("IMALAN_183", "Los archivos PNG y GIF se convertirán automáticamente a formato jpeg. (iconos excluidos)");

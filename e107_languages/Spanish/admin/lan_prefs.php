@@ -56,9 +56,9 @@ define("PRFLAN_53", "Preferencias de sitio");
 define("PRFLAN_55", "Nombre de la cookie/sesión");
 define("PRFLAN_56", "Zona horaria");
 define("PRFLAN_58", "Restringir el sitio web para miembros solamente");
-define("PRFLAN_59", "tictac limitará todas las áreas aparte de la portada y página de registro para miembros solamente");
+define("PRFLAN_59", "Marcando limitará todas las áreas aparte de la portada y página de registro para miembros solamente");
 define("PRFLAN_60", "Habilitar SSL");
-define("PRFLAN_61", "Sólo habilitar SSL si estás seguro de que sabrás lo que haces!");
+define("PRFLAN_61", "Redirigir todo el tráfico a través de SSL (https)");
 define("PRFLAN_76", "Exhibición de CAPTCHA en la página de registro.");
 define("PRFLAN_77", "Opciones de visualización de admin");
 define("PRFLAN_78", "Deje en blanco para desactivar");
@@ -152,7 +152,7 @@ define("PRFLAN_164", "Permiten a los usuarios por correo electrónico copia del 
 define("PRFLAN_165", "Posible apertura para permitir spam, uso con precaución");
 define("PRFLAN_166", "¿Mostrar imágenes de emoticon en forma de comentarios?");
 define("PRFLAN_167", "Asegúrese de ingresar una dirección de correo electrónico opcional");
-define("PRFLAN_168", "Sitio contacto (s)");
+define("PRFLAN_168", "Persona(s) de contacto del sitio");
 define("PRFLAN_169", "Si el grupo elegido contiene a más de una persona, se pedirá al usuario para seleccionar a una persona del grupo.");
 define("PRFLAN_172", "Longitud máxima de nombre de inicio de sesión (10..100)");
 define("PRFLAN_173", "Buscar actualizaciones de e107 una vez / día");
@@ -173,7 +173,7 @@ define("PRFLAN_190", "Salado");
 define("PRFLAN_191", "(md5 es generalmente adecuado para una Intranet y a menudo de otros sitios)");
 define("PRFLAN_192", "Generar nombres de inicio de sesión predefinida aleatorio según un patrón");
 define("PRFLAN_193", "Para permitir a los usuarios establecer sus propios nombres de inicio de sesión, deje en blanco");
-define("PRFLAN_194", "alfa # [br]. numérico [br] * alfanumérico [br] otros caracteres como entró.");
+define("PRFLAN_194", "alfa # [br]. numérico [br] * alfanumérico [br] Otros caracteres como teclado.");
 define("PRFLAN_196", "Registrar todos los accesos de página");
 define("PRFLAN_197", "Nuevo usuario inicio de sesión automático después de hacer clic en el enlace signup");
 define("PRFLAN_198", "Si deshabilita, el usuario tiene conectarse explícitamente después de la inscripción");
@@ -192,8 +192,8 @@ define("PRFLAN_208", "Clase de usuario que puede enviar enlaces a artículos en 
 define("PRFLAN_209", "Otras características");
 define("PRFLAN_210", "Comentarios/registro");
 define("PRFLAN_211", "No se puede hacer dirección de correo electrónico opcional si se requiere para la validación o login");
-define("PRFLAN_212", "Cambia de valor--campo--demasiado alto ---valor--");
-define("PRFLAN_213", "Valor--campo--demasiado bajo - a--valor--");
+define("PRFLAN_212", "Valor para [x] demasiado alto - cambiado a [y]");
+define("PRFLAN_213", "Valor de [x] demasiado bajo - cambiado a [y]");
 define("PRFLAN_214", "Logo del sitio");
 define("PRFLAN_215", "Clase que puede publicar < script > y etiquetas similares");
 define("PRFLAN_216", "(Requiere HTML publicación derechos así)");
@@ -257,6 +257,3 @@ define("PRFLAN_273", "Tiempo de vida en segundos. 0 = hasta que el navegador est
 define("PRFLAN_274", "Formulario de contacto sólo será visible para este grupo de clase de usuario.");
 define("PRFLAN_275", "Ver esta página usando https (SSL) para modificar esta opción");
 define("PRFLAN_276", "Predeterminado de PHP (Preferido)");
-
-
-?>

@@ -9,9 +9,8 @@
 |        $Author: Administrador $
 +---------------------------------------------------------------+
 */
-
 define("PAGE_NAME", "Configuración de usuario");
-define("MAX_AVWIDTH", "Tamaño máximo del avatar (wxh)");
+define("MAX_AVWIDTH", "Tamaño máximo del avatar (wxh) es");
 define("MAX_AVHEIGHT", "x");
 define("LAN_USET_1", "Tu avatar es demasiado ancho");
 define("LAN_USET_2", "Anchura máxima admisible es de");
@@ -28,7 +27,7 @@ define("LAN_USET_14", "Nombre demasiado largo. Por favor, elige otro");
 define("LAN_USET_15", "Nombre demasiado largo. Por favor, elige otro");
 define("LAN_USET_16", "Casilla para borrar la foto existente sin subir otro");
 define("LAN_USET_17", "Nombre ya utilizado. Por favor, elige otro");
-define("LAN_USET_18", "Datos de usuario modifican por admin:--identificación--, el nombre de usuario:--LOGNAME--");
+define("LAN_USET_18", "Datos de usuario modifican por admin: [x], el nombre de usuario: [y]");
 define("LAN_USET_20", "También debe cambiar la contraseña del usuario si va a cambiar su nombre o correo electrónico dirección de login");
 define("LAN_USET_21", "Por favor valide los cambios por reingresar su contraseña:");
 define("LAN_USET_23", "Deje en blanco para mantener la contraseña existente");
@@ -81,7 +80,4 @@ define("LAN_434", "¿Qué es esto?");
 define("LAN_435", "Archivo de protocolo de usuario XML");
 define("LAN_CUSTOMTITLE", "Título personalizado");
 define("LAN_USET_5", "Suscrito a");
-define("LAN_USET_6", "Suscríbete a nuestro correo-listas o secciones de este sitio.");
-
-
-?>
+define("LAN_USET_6", "Suscríbete a nuestro listas de correos y/o secciones de este sitio.");

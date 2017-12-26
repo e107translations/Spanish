@@ -9,14 +9,13 @@
 |        $Author: Norwayman $
 +---------------------------------------------------------------+
 */
-
 define("BANLAN_2", "No hay prohibiciones en lista.");
 define("BANLAN_3", "Prohibiciones existentes");
 define("BANLAN_5", "Introducir IP, dirección de correo electrónico o host");
 define("BANLAN_7", "Razón");
 define("BANLAN_8", "Dirección de prohibición");
 define("BANLAN_9", "Banear a los usuarios del sitio web por dirección de correo electrónico, IP o host");
-define("BANLAN_10", "IP / correo electrónico / razón");
+define("BANLAN_10", "IP / Correo electrónico / Razón");
 define("BANLAN_11", "Auto-ban: más de 10 fallaron los intentos de inicio de sesión");
 define("BANLAN_12", "Nota: DNS inverso está actualmente desactivado; debe estar habilitada para permitir prohibir por host.  Prohibición por dirección IP y el correo electrónico todavía funcionará normalmente.");
 define("BANLAN_13", "Nota: Para la prohibición de un nombre de usuario por usuario, vaya a la página de administración de usuarios:");
@@ -32,7 +31,7 @@ define("BANLAN_23", "día (s)");
 define("BANLAN_24", "horas");
 define("BANLAN_25", "Añade a la Banlist");
 define("BANLAN_26", "En la actualidad");
-define("BANLAN_27", "Caracteres no válidos en dirección IP desnudaron - ahora:");
+define("BANLAN_27", "Caracteres no válidos en dirección IP despojado - ahora:");
 define("BANLAN_28", "Tipo de Ban");
 define("BANLAN_29", "Prohibido de mensaje para mostrar al usuario");
 define("BANLAN_30", "Duración de la prohibición");
@@ -52,10 +51,10 @@ define("BANLAN_44", "Usar la fecha de vencimiento de la importación");
 define("BANLAN_45", "Importación");
 define("BANLAN_46", "Archivo de importación:");
 define("BANLAN_47", "Error de carga de archivo");
-define("BANLAN_48", "Eliminados--NUM--ban vencido lista entradas");
+define("BANLAN_48", "Eliminados [y] ban vencido lista entradas");
 define("BANLAN_49", "Importación CSV: desequilibrado cotizaciones en línea");
 define("BANLAN_50", "Importación CSV: Error al escribir el banlist registro en línea");
-define("BANLAN_51", "Importación CSV: éxito,--NUM--líneas importadas de archivos");
+define("BANLAN_51", "Importación CSV: éxito, [y] líneas importadas de archivos");
 define("BANLAN_52", "Lista blanca");
 define("BANLAN_53", "Añadir a lista blanca");
 define("BANLAN_54", "No hay entradas en la lista blanca");
@@ -68,7 +67,7 @@ define("BANLAN_60", "Editar entrada existente de la banlist");
 define("BANLAN_61", "Entradas de lista blanca existentes");
 define("BANLAN_63", "Utilizar DNS inverso para permitir host prohibición");
 define("BANLAN_64", "Accesos DNS inversas cuando se añade la prohibición de");
-define("BANLAN_65", "Encender esta opción le permitirá a los usuarios por nombre de host, que entonces sólo IP o dirección de email.<br>Nota: Esto puede afectar a veces pageload en algunos hosts, o si un servidor no responde");
+define("BANLAN_65", "Encender esta opción le permitirá a los usuarios por nombre de host, que entonces sólo IP o dirección de email. <br>NOTAR: Esto puede afectar a veces pageload en algunos hosts, o si un servidor no responde");
 define("BANLAN_66", "Cuando se produce una prohibición, esta opción agrega el dominio de la dirección prohibida a la razón");
 define("BANLAN_67", "Tasa de acceso máximo establecido");
 define("BANLAN_68", "Esto determina el número máximo de accesos del sitio en un período de 5 minutos");
@@ -81,7 +80,7 @@ define("BANLAN_74", "Mantenimiento de la Banlist");
 define("BANLAN_75", "Eliminar las prohibiciones expiradas de lista");
 define("BANLAN_76", "Ejecutar");
 define("BANLAN_77", "Mensajes/prohibición de períodos");
-define("BANLAN_78", "Hit número superado ([x] pedidos dentro del tiempo asignado)");
+define("BANLAN_78", "Número de visitas superado ([x] pedidos dentro del tiempo asignado)");
 define("BANLAN_79", "Formato de exportación CSV:");
 define("BANLAN_80", "Formato de importación de CSV:");
 define("BANLAN_81", "Registro de la acción de prohibición");
@@ -90,13 +89,12 @@ define("BANLAN_83", "Fecha y hora");
 define("BANLAN_84", "Dirección IP");
 define("BANLAN_85", "Información adicional");
 define("BANLAN_86", "Eventos relacionados con la prohibición");
-define("BANLAN_87", "Total--NUM--entradas de lista");
+define("BANLAN_87", "Total [y] entradas de lista");
 define("BANLAN_88", "Registro de acción de prohibición vacía");
 define("BANLAN_89", "Archivo de registro eliminado");
 define("BANLAN_90", "Error al eliminar archivo log");
 define("BANLAN_91", "Fecha/hora formato para registro de ban");
 define("BANLAN_92", "Consulte la página de función strftime en php.net");
-define("BANLAN_93", "");
 define("BANLAN_100", "Desconocido");
 define("BANLAN_101", "Manual");
 define("BANLAN_102", "Inundación");
@@ -124,6 +122,3 @@ define("BANLAN_123", "Añadir a lista negra");
 define("BANLAN_124", "Vence");
 define("BANLAN_125", "Uso mi IP");
 define("BANLAN_126", "IP / Correo eletrónico");
-
-
-?>

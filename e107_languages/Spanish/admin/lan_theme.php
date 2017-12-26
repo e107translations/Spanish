@@ -112,6 +112,4 @@ define("TPVLAN_91", "Crear un nuevo tema basado en");
 define("TPVLAN_92", "Nueva carpeta de temas");
 define("TPVLAN_93", "Selección");
 define("TPVLAN_94", "El tema del sitio cambió a [x].");
-
-
-?>
+define("TPVLAN_95", "Piel");

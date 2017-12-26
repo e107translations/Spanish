@@ -9,7 +9,6 @@
 |        $Author: Norwayman $
 +---------------------------------------------------------------+
 */
-
 define("UPLLAN_1", "Sube imágenes de quitado de la lista.");
 define("UPLLAN_2", "Ajustes guardados en la base de datos");
 define("UPLLAN_4", "Nada cambia - no actualizado");
@@ -37,7 +36,7 @@ define("UPLAN_IS", "es");
 define("UPLAN_ARE", "son");
 define("UPLAN_COPYTODLS", "Copiar a descargas");
 define("UPLLAN_51", "Lista de Uploads");
-define("UPLLAN_52", "Esta página le ayuda a crear un fichero para la gestión de permisos de upload de archivos. El archivo se guarda como--origen--y debe ser copiado a--destino--antes de que tome efecto.");
+define("UPLLAN_52", "Esta página le ayuda a crear un fichero para la gestión de permisos de upload de archivos. El archivo se guarda como [x] y debe ser copiado a [y] antes de que tome efecto.");
 define("UPLLAN_54", "Extensiones de archivo");
 define("UPLLAN_55", "Tamaño máximo de carga");
 define("UPLLAN_56", "Generar archivo");
@@ -52,6 +51,3 @@ define("UPLLAN_66", "Descargar error de ruta");
 define("UPLLAN_68", "Error SQL:");
 define("UPLLAN_69", "Importada");
 define("UPLLAN_70", "Enviar a [x]");
-
-
-?>

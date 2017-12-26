@@ -57,17 +57,17 @@ define("ADLAN_PM_64", "Mensajes recibidos");
 define("ADLAN_PM_65", "Bloques de usuario");
 define("ADLAN_PM_66", "No hay tareas de mantenimiento especificados");
 define("ADLAN_PM_67", "Mantenimiento de la base de datos de PM comenzó");
-define("ADLAN_PM_68", "--COUNT-- Bloquea a los usuarios eliminados removidos");
-define("ADLAN_PM_69", "--COUNT-- Bloquea de usuarios eliminados removidos");
-define("ADLAN_PM_70", "Error base de datos --NUM--: --TEXT-- eliminación de bloques de usuario");
+define("ADLAN_PM_68", "[x] Bloquea a los usuarios eliminados removidos");
+define("ADLAN_PM_69", "[x] Bloquea de usuarios eliminados removidos");
+define("ADLAN_PM_70", "Error base de datos [y]: [z] eliminando bloques de usuario");
 define("ADLAN_PM_71", "Mensajes caducado por tiempo");
 define("ADLAN_PM_72", "No PM tiempos de espera especificado");
-define("ADLAN_PM_73", "--COUNT-- PMs expirado por tiempo eliminados");
-define("ADLAN_PM_74", "Retire --COUNT-- mensajes enviados por los usuarios eliminados");
-define("ADLAN_PM_75", "Retire --COUNT-- mensajes recibidos por los usuarios eliminados");
+define("ADLAN_PM_73", "[x] PMs expirado por tiempo eliminados");
+define("ADLAN_PM_74", "Retire [x] mensajes enviados por los usuarios eliminados");
+define("ADLAN_PM_75", "Retire [x] mensajes recibidos por los usuarios eliminados");
 define("ADLAN_PM_77", "(Vacíar todos los campos y Actualización para borrar un límite)");
 define("ADLAN_PM_78", "Compruebe los archivos adjuntos");
-define("ADLAN_PM_79", "--ORPHANS-- Adjuntos no utilizados eliminado. --MISSING-- Adjuntos que faltan anotado");
+define("ADLAN_PM_79", "[x] Adjuntos no utilizados eliminado. [y] Adjuntos que faltan anotado");
 define("ADLAN_PM_80", "Formatos de preferencia actualizado");
 define("ADLAN_PM_81", "Número máximo de PMs para enviar de inmediato");
 define("ADLAN_PM_82", "Si el envío de más de esto, se añaden a una cola y se envían a cabo mediante la tarea cron");
@@ -82,6 +82,3 @@ define("ADLAN_PM_90", "Por favor, introduzca un destinatario en el campo "Para".
 define("ADLAN_PM_91", "Prueba");
 define("ADLAN_PM_92", "Prueba de correo electrónico enviado!");
 define("ADLAN_PM_93", "Prueba de correo electrónico ha fallado!");
-
-
-?>

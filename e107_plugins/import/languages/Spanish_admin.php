@@ -9,7 +9,6 @@
 |        $Author: Norwayman $
 +---------------------------------------------------------------+
 */
-
 define("LAN_CONVERT_03", "Se debe iniciar con una base E107 limpia, que no sea el usuario administrador principal (ID = 1)");
 define("LAN_CONVERT_04", "Campos dejaron en blanco, por favor regrese y vuelva a introducir los valores.");
 define("LAN_CONVERT_05", "Ejecutar esta secuencia de comandos puede vaciar muchas de sus tablas de E107 - Asegúrese de que tener una copia de seguridad completa antes de continuar!");
@@ -41,8 +40,8 @@ define("LAN_CONVERT_30", "Rutina de importación información");
 define("LAN_CONVERT_31", "Archivo de datos CSV no existen, o inválido permisos");
 define("LAN_CONVERT_32", "Error al leer archivo de datos CSV");
 define("LAN_CONVERT_33", "Error en la línea de datos CSV");
-define("LAN_CONVERT_34", "Error:--ERRNUM--al escribir en la base de datos de usuario, línea");
-define("LAN_CONVERT_35", "Importación CSV concluido. --LÍNEAS--Lea, agregan--usuarios - usuarios, errores, errores");
+define("LAN_CONVERT_34", "Error: [x] al escribir en la base de datos de usuario, línea");
+define("LAN_CONVERT_35", "Importación CSV concluido.  [x] Leido, [y] usuarios agregado, [z] errores");
 define("LAN_CONVERT_36", "Nombre de archivo de datos CSV");
 define("LAN_CONVERT_37", "Especificación de formato no válido para tipo de importación");
 define("LAN_CONVERT_38", "Eliminar datos existentes");
@@ -53,8 +52,8 @@ define("LAN_CONVERT_42", "Error en el archivo de definición - clase requerida n
 define("LAN_CONVERT_43", "Error conectando a la base de datos fuente");
 define("LAN_CONVERT_44", "Error de configuración de consulta para");
 define("LAN_CONVERT_45", "No puede leer el archivo de código de importación");
-define("LAN_CONVERT_46", "Error:--ERRNUM--escribiendo--dB - base de datos, línea de");
-define("LAN_CONVERT_47", "Lote--bloque--importación terminada. --LÍNEAS--leer--usuarios--añadido, errores, errores");
+define("LAN_CONVERT_46", "Error: [x] escribiendo a [y] base de datos, línea de");
+define("LAN_CONVERT_47", "Lote [w] importación terminada. [x] leido, [y] añadido, [z] errores");
 define("LAN_CONVERT_48", "Mensajes de foro");
 define("LAN_CONVERT_49", "Drupal");
 define("LAN_CONVERT_50", "Importación básica");
@@ -82,6 +81,3 @@ define("LAN_CONVERT_71", "Mensajes de foro");
 define("LAN_CONVERT_72", "Seguimiento del Foro");
 define("LAN_CONVERT_73", "Clases de usuario");
 define("LAN_CONVERT_74", "Categorías de Noticias");
-
-
-?>

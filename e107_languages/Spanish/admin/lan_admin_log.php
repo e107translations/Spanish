@@ -41,7 +41,7 @@ define("RL_LAN_050", "Error de parámetro - nada eliminado");
 define("RL_LAN_052", "Registro de administrador");
 define("RL_LAN_053", "Log de auditoría de usuario");
 define("RL_LAN_054", "Nada a eliminar, o error de base de datos");
-define("RL_LAN_057", "-eventos más de--edad--eliminan (entradas--NUM--)");
+define("RL_LAN_057", "- eventos más de [x] (([y] entradas) de edad eliminados");
 define("RL_LAN_058", "Filtro de prioridad:");
 define("RL_LAN_059", "Filtro de llamadas:");
 define("RL_LAN_060", "Filtro de dirección IP:");
@@ -66,8 +66,6 @@ define("RL_LAN_081", "Rebotes de correo");
 define("RL_LAN_082", "Prohibiciones de usuario");
 define("RL_LAN_083", "Reajustes de rebote de correo");
 define("RL_LAN_084", "Cuentas temporales");
-define("RL_LAN_085", "[X] registros eliminados correctamente!");
-define("RL_LAN_086", "[X] registros no encontrados y no eliminados!");
 define("RL_LAN_087", "Detalles");
 define("RL_LAN_090", "Descargar ID");
 define("RL_LAN_091", "Horarios detallados");
@@ -75,7 +73,6 @@ define("RL_LAN_092", "Período de tiempo");
 define("RL_LAN_093", "(minutos)");
 define("RL_LAN_094", "Análisis de control de tiempo detallados");
 define("RL_LAN_096", "Differencia (s)");
-define("RL_LAN_098", "Fuente");
 define("RL_LAN_100", "CID");
 define("RL_LAN_101", "PID");
 define("RL_LAN_103", "Asunto");
@@ -103,6 +100,3 @@ define("RL_LAN_132", "Informativo");
 define("RL_LAN_133", "Anuncio");
 define("RL_LAN_134", "Advertencia");
 define("RL_LAN_135", "Fatal");
-
-
-?>

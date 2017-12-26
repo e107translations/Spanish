@@ -119,6 +119,7 @@ define("LAN_RE_ORDER", "Cambiar el orden");
 define("LAN_RELATED", "Relacionada");
 define("LAN_CLOSE", "Cerrar");
 define("LAN_EXPAND", "Expandir");
+define("LAN_LIST", "Lista");
 define("LAN_ENTER_USRNAME_EMAIL", "Por favor ingrese su nombre de usuario o correo electrónico");
 define("LAN_PWD_REQUIRED", "Se requiere contraseña");
 define("LAN_SHOW", "Mostrar");
@@ -127,6 +128,3 @@ define("LAN_SUMMARY", "Resumen");
 define("LAN_REQUIRED_BLANK", "Los campos necesario (s) era dejado en blanco.");
 define("LAN_PLEASEWAIT", "Espera, por favor.");
 define("LAN_CHOOSE_FILE", "Escoge un archivo");
-
-
-?>

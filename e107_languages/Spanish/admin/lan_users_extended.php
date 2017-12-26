@@ -9,7 +9,6 @@
 |        $Author: Norwayman $
 +---------------------------------------------------------------+
 */
-
 define("EXTLAN_1", "Nombre");
 define("EXTLAN_2", "Vista previa");
 define("EXTLAN_3", "Valores");
@@ -70,7 +69,6 @@ define("EXTLAN_57", "Activa");
 define("EXTLAN_58", "No activado");
 define("EXTLAN_59", "Activar");
 define("EXTLAN_60", "Desactivar");
-define("EXTLAN_61", "Ninguno");
 define("EXTLAN_62", "Tabla");
 define("EXTLAN_63", "Campo Id");
 define("EXTLAN_64", "Mostrar el valor");
@@ -87,7 +85,7 @@ define("EXTLAN_74", "es un nombre de campo reservado y no puede utilizarse.");
 define("EXTLAN_75", "Agregar campo de error a la base de datos.");
 define("EXTLAN_76", "Caracteres no válidos en campo nombre - sólo A-z, a-z, 0-9, permitido.");
 define("EXTLAN_77", "Categoría no eliminan - en primer lugar debe eliminar campos de categoría:");
-define("EXTLAN_78", "No encuentra archivo--archivo--necesaria para crear la tabla de datos");
+define("EXTLAN_78", "No encuentro archivo [x] necesario para crear la tabla de datos");
 define("EXTLAN_79", "Etiqueta");
 define("EXTLAN_80", "Error de validación - abortado.");
 define("EXTLAN_81", "Agregar campo personalizado");
@@ -105,6 +103,3 @@ define("EXTLAN_HELP_6", "Permitir que el usuario introduzca un valor numérico")
 define("EXTLAN_HELP_7", "Usuario a ingresar una fecha");
 define("EXTLAN_HELP_8", "Usuario seleccionar entre idiomas instalados");
 define("EXTLAN_HELP_9", "Especificar una lista predefinida. El campo valor selecciona el tipo de lista - en la actualidad sólo 'zonas horarias' es una entrada válida");
-
-
-?>

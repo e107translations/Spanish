@@ -1,8 +1,14 @@
 <?php
-
-// Bing-Translated Language file 
-// Generated for e107 v2.x by the Multi-Language Plugin
-// https://github.com/e107inc/multilan
+/*
++---------------------------------------------------------------+
+|        e107 website content management system Spanish Language File
+|        Released under the terms and conditions of the
+|        GNU General Public License (http://gnu.org).
+|        Last Modified: 2017/11/11 19:47:11
+|
+|        $Author: Norwayman $
++---------------------------------------------------------------+
+*/
 
 define("PAGE_NAME", "Búsqueda de");
 define("LAN_140", "Miembros de");
@@ -15,7 +21,7 @@ define("LAN_197", "Descargas");
 define("LAN_198", "No hay coincidencias encontradas");
 define("LAN_199", "Búsqueda para:");
 define("LAN_416", "Usted debe estar logueado para acceder a esta página");
-define("LAN_417", "Términos de búsqueda deben ser por lo menos--caracteres--caracteres.");
+define("LAN_417", "Términos de búsqueda deben ser por lo menos [x] caracteres.");
 define("LAN_418", "Otras páginas");
 define("LAN_SEARCH_1", "Marque todas las");
 define("LAN_SEARCH_2", "Desmarcar todos");
@@ -41,7 +47,7 @@ define("LAN_SEARCH_23", "Formulario de consulta de mayor");
 define("LAN_SEARCH_24", "Debe contener la palabra");
 define("LAN_SEARCH_25", "No debe contener palabras");
 define("LAN_SEARCH_26", "Frase exacta");
-define("LAN_SEARCH_27", "Palabra que comienza con");
+define("LAN_SEARCH_27", "Palabra(s) que comienza con");
 define("LAN_SEARCH_28", "Todo no tiene ninguna búsqueda avanzada");
 define("LAN_SEARCH_29", "Básico");
 define("LAN_SEARCH_30", "Avanzado");

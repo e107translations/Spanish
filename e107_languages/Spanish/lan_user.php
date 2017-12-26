@@ -69,9 +69,9 @@ define("LAN_USER_71", "Firma:");
 define("LAN_USER_72", "Avatar:");
 define("LAN_USER_73", "selección de listas de correo del contenido");
 define("LAN_USER_74", "Título personalizado");
-define("LAN_USER_75", "Tu--algo--es necesario");
+define("LAN_USER_75", "Tu [x] es necesario");
 define("LAN_USER_76", "Suscrito a");
-define("LAN_USER_77", "Su contraseña debe ser al menos--cuenta--caracteres de largo.");
+define("LAN_USER_77", "Su contraseña debe ser al menos [x] caracteres de largo.");
 define("LAN_USER_78", "Minimo");
 define("LAN_USER_79", "characteres");
 define("LAN_USER_80", "el nombre aparece en el sitio");
@@ -80,7 +80,7 @@ define("LAN_USER_82", "el nombre que utilizas para iniciar sesión en el sitio")
 define("LAN_USER_83", "Ocultar dirección de correo electrónico?:");
 define("LAN_USER_84", "Esto evitará que tu dirección de correo electrónico se muestra en el sitio");
 define("LAN_USER_85", "Si desea cambiar su nombre de usuario, usted debe pedir a un administrador del sitio");
-define("LAN_USER_86", "Tamaño máximo del avatar es--anchura--x--altura--pixeles");
+define("LAN_USER_86", "Tamaño máximo del avatar es [x]- x [y] pixeles");
 define("LAN_USER_87", "Inicie sesión para calificar este usuario!");
 define("LAN_XUP_ERRM_01", "¡Registro fallido! Esta función está desactivada.");
 define("LAN_XUP_ERRM_02", "¡Registro fallido! Mal proveedor.");
@@ -94,6 +94,3 @@ define("LAN_XUP_ERRM_09", "Pruebe el inicio de sesión sólo con [x]");
 define("LAN_XUP_ERRM_10", "Prueba de registro/inicio de sesión con [x]");
 define("LAN_XUP_ERRM_11", "Conectado:");
 define("LAN_XUP_ERRM_12", "Salida de prueba");
-
-
-?>

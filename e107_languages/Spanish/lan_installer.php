@@ -126,6 +126,5 @@ define("LANINS_141", "Rellene el siguiente formulario con sus datos de MySQL. Si
 define("LANINS_142", "IMPORTANTE: cambiar el nombre de e107.htaccess a .htaccess");
 define("LANINS_144", "IMPORTANTE: Por favor, copie y pegue el contenido del [b] e107.htaccess [/ b] en el [b] .htaccess [b /] archivo. Por favor, tenga cuidado de no sobrescribir los datos existentes que pueden estar en ella.");
 define("LANINS_145", "El versión v2.x de e107 requiere el PHP [x] para que se instale. Por favor, póngase en contacto con su proveedor de alojamiento o leer la información en [y] antes de continuar.");
-
-
-?>
+define("LANINS_146", "Diseño para el Área de administración");
+define("LANINS_147", "Administración");

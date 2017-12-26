@@ -1,8 +1,14 @@
 <?php
-
-// Bing-Translated Language file 
-// Generated for e107 v2.x by the Multi-Language Plugin
-// https://github.com/e107inc/multilan
+/*
++---------------------------------------------------------------+
+|        e107 website content management system Spanish Language File
+|        Released under the terms and conditions of the
+|        GNU General Public License (http://gnu.org).
+|        Last Modified: 2017/11/11 20:28:32
+|
+|        $Author: Norwayman $
++---------------------------------------------------------------+
+*/
 
 define("NLLAN_04", "Se ha instalado correctamente el plugin de boletín. Configurar, volver a la página de admin principal y haga clic en \'Newsletter\' en la sección de plugin.");
 define("NLLAN_05", "No hay boletines definidos todavía");
@@ -25,7 +31,7 @@ define("NLLAN_33", "Texto");
 define("NLLAN_36", "Edición de boletín de actualización");
 define("NLLAN_37", "Crear Newsletter Edición");
 define("NLLAN_39", "Edición de boletín guardado en la base de datos - para enviar, haga clic en el \'Release Issue\' botón en el menú de opciones.");
-define("NLLAN_40", "Mailout agrega a mailout cola - tema enviado a--cuenta--suscriptores.");
+define("NLLAN_40", "Mailout agrega a mailout cola - tema enviado a [x] suscriptor(es).");
 define("NLLAN_41", "No suscriptores encontrados - correo cancelado");
 define("NLLAN_44", "Portada del boletín");
 define("NLLAN_45", "Crear Newsletter");
