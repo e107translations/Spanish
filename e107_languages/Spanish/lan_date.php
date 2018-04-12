@@ -14,7 +14,7 @@ define("LANDT_02", "mes");
 define("LANDT_03", "semana");
 define("LANDT_04", "día");
 define("LANDT_05", "hora");
-define("LANDT_06", "minutos");
+define("LANDT_06", "minuto");
 define("LANDT_07", "segundo");
 define("LANDT_01s", "años");
 define("LANDT_02s", "meses");
