@@ -50,11 +50,11 @@ define("COMLAN_325", "Respecto a:");
 define("COMLAN_326", "Contestar a este");
 define("COMLAN_328", "Se bloquean comentarios");
 define("COMLAN_329", "No autorizado");
-define("COMLAN_330", "JPY");
+define("COMLAN_330", "IP:");
 define("COMLAN_331", "Pendiente de aprobación");
 define("COMLAN_332", "No podía borrar comentario");
 define("COMLAN_333", "Comentario aprobado");
-define("COMLAN_334", "No pudo aprobar comentario");
+define("COMLAN_334", "No podía aprobar comentario");
 define("COMLAN_335", "Aprobado");
 define("COMLAN_336", "Por favor escribir algo primero.");
 define("COMLAN_337", "Actualizado correctamente.");
@@ -72,7 +72,7 @@ define("COMLAN_TYPE_6", "Informe");
 define("COMLAN_TYPE_7", "ideas");
 define("COMLAN_TYPE_8", "perfil de usuario");
 define("COMLAN_TYPE_PAGE", "Contenido");
-define("COMLAN_500", "Por favor,  [inicia sesión] para dejar un comentario.");
+define("COMLAN_500", "Por favor, [inicia sesión] para dejar un comentario.");
 define("COMLAN_501", "Si aún no está registrado, es posible que [haga clic aquí para registrarse].");
 
 
