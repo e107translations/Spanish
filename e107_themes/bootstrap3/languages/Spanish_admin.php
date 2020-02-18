@@ -10,7 +10,7 @@
 +---------------------------------------------------------------+
 */
 
-define("LAN_THEMEPREF_00", "Marca:");
+define("LAN_THEMEPREF_00", "Presentación de nombre del sitio/logotipo:");
 define("LAN_THEMEPREF_01", "Barra de navegación Alineación:");
 define("LAN_THEMEPREF_02", "Colocación de Registro/Inicio de sesión:");
 define("LAN_THEMEPREF_03", "Estilos Bootswatch:");
