@@ -6,7 +6,7 @@
 |        GNU General Public License (http://gnu.org).
 |        Last Modified: 2020/02/17 20:35:00
 |
-|        $Author: Norwayman $
+|        $Author: 1nn7erpLaY $
 +---------------------------------------------------------------+
 */
 
