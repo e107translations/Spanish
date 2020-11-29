@@ -56,6 +56,7 @@ define("LAN_ERROR_43", "Sitio de carácter temporal");
 define("LAN_ERROR_44", "Logo del sitio");
 define("LAN_ERROR_45", "¿Qué puedes hacer ahora?");
 define("LAN_ERROR_46", "Consulte el registro para obtener más detalles.");
-
-
-?>
+define("LAN_ERROR_47", "Error de validación: ¡El título de la noticia no puede estar vacío!");
+define("LAN_ERROR_48", "Error de validación: ¡El valor de la URL de SEF de las noticias es un campo obligatorio y no puede estar vacío!");
+define("LAN_ERROR_49", "Error de validación: La URL del SEF de las noticias es un campo único - ¡el valor actual ya está en uso! Por favor, elija otro valor SEF URL.");
+define("LAN_ERROR_50", "Error de validación: ¡La categoría de noticias no puede estar vacía!");

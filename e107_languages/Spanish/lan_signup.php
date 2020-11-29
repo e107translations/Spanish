@@ -64,8 +64,6 @@ define("LAN_SIGNUP_64", "No aparece información de usuario válido");
 define("LAN_SIGNUP_65", "Se le ha asignado el siguiente nombre de usuario");
 define("LAN_SIGNUP_66", "Por favor tome nota de él.");
 define("LAN_SIGNUP_67", "Este será asignado por el sistema después de la inscripción");
-define("LAN_SIGNUP_69", "");
-define("LAN_SIGNUP_70", "");
 define("LAN_SIGNUP_71", "Has alcanzado el límite de sitio para los registros de la cuenta. Por favor, usando una de tus otras cuentas.");
 define("LAN_SIGNUP_72", "Gracias por registrarte en [nombre]! Sólo te enviamos un email de confirmación a [email]. Haga clic en el enlace de confirmación en el correo electrónico para completar tu signo encima y activar su cuenta.");
 define("LAN_SIGNUP_73", "¡Gracias!");
@@ -113,6 +111,6 @@ define("LAN_SIGNUP_118", "A [x]");
 define("LAN_SIGNUP_119", "No envíe correo electrónico");
 define("LAN_SIGNUP_120", "O");
 define("LAN_SIGNUP_121", "Usa una dirección de correo electrónico diferente");
-
-
-?>
+define("LAN_SIGNUP_122", "Política de privacidad");
+define("LAN_SIGNUP_123", "Términos y condiciones");
+define("LAN_SIGNUP_124", "Al inscribirse usted está de acuerdo con nuestra [x] y nuestra [y].");

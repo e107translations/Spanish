@@ -9,7 +9,6 @@
 |        $Author: Norwayman $
 +---------------------------------------------------------------+
 */
-
 define("LANCONTACT_00", "En contacto con nosotros");
 define("LANCONTACT_01", "Datos de contacto");
 define("LANCONTACT_02", "Formulario de contacto");
@@ -31,6 +30,7 @@ define("LANCONTACT_17", "Por favor, escriba tu nombre.");
 define("LANCONTACT_18", "Por favor, introduzca tu dirección de correo electrónico.");
 define("LANCONTACT_19", "Por favor, introduzca el tema para tu correo electrónico.");
 define("LANCONTACT_20", "Por favor, ingrese tu mensaje para nosotros.");
-
-
-?>
+define("LANCONTACT_21", "Consiento en que este sitio web almacene la información que he enviado para que puedan responder a mi solicitud.");
+define("LANCONTACT_22", "Política de privacidad");
+define("LANCONTACT_23", "Puedes encontrar nuestra política de privacidad aquí: [x]");
+define("LANCONTACT_24", "Acuerdo sobre el PBI");

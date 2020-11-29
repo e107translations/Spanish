@@ -9,10 +9,9 @@
 |        $Author: Administrador $
 +---------------------------------------------------------------+
 */
-
 define("PAGE_NAME", "Usuario mensajes");
-define("UP_LAN_0", "Todos los mensajes de foro para");
-define("UP_LAN_1", "Todos los comentarios de");
+define("UP_LAN_0", "Todos los mensajes de foro para [x]");
+define("UP_LAN_1", "Todos los comentarios de [x]");
 define("UP_LAN_2", "Hilo de rosca");
 define("UP_LAN_3", "Vistas");
 define("UP_LAN_4", "Respuestas");
@@ -27,6 +26,3 @@ define("UP_LAN_12", "Búsqueda de");
 define("UP_LAN_14", "Mensajes de foro");
 define("UP_LAN_15", "Re a");
 define("UP_LAN_16", "Dirección IP");
-
-
-?>

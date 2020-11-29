@@ -19,6 +19,7 @@ define("UE_LAN_8", "Idioma");
 define("UE_LAN_9", "Lista predefinida");
 define("UE_LAN_10", "Casillas de verificación");
 define("UE_LAN_13", "Pais");
+define("UE_LAN_14", "Rich Textarea (WYSIWYG)");
 define("UE_LAN_21", "Nombre");
 define("UE_LAN_22", "Tipo");
 define("UE_LAN_23", "Uso");
@@ -52,6 +53,3 @@ define("UE_LAN_MALE", "Hombre");
 define("UE_LAN_FEMALE", "Mujer");
 define("UE_LAN_COMMENT", "Commentarios");
 define("UE_LAN_COMMENT_DESC", "Caja de Commentarios");
-
-
-?>

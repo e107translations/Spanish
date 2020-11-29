@@ -9,7 +9,6 @@
 |        $Author: Norwayman $
 +---------------------------------------------------------------+
 */
-
 define("LAN_EMAIL_1", "De:");
 define("LAN_EMAIL_2", "Dirección IP del remitente:");
 define("LAN_EMAIL_3", "Artículo enviado por e-mail de");
@@ -32,6 +31,3 @@ define("LAN_EMAIL_188", "Pensé que podrías estar interesado en estas noticias 
 define("LAN_EMAIL_189", "Pensé que podrías estar interesado en este artículo de");
 define("LAN_EMAIL_190", "Ingrese código visible");
 define("LAN_SOCIAL_LINK_CHK", "Echa un vistazo a este enlace:");
-
-
-?>
