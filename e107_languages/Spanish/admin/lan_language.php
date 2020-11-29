@@ -32,8 +32,6 @@ define("LANG_LAN_21", "Paquetes de idioma");
 define("LANG_LAN_25", "Estado de creación de paquete de idioma");
 define("LANG_LAN_26", "Cargar archivos de idioma sólo para el idioma actual");
 define("LANG_LAN_27", "Si está marcada y un idioma no se encuentra, habrá un error");
-define("LANG_LAN_28", "Marque esta casilla si eres un traductor certificado [e107].");
-define("LANG_LAN_EML", "Por correo electrónico el paquete de idioma para:");
 define("LANG_LAN_32", "Idiomas instalados");
 define("LANG_LAN_33", "Mostrar sólo errores durante la verificación");
 define("LANG_LAN_50", "Idioma de la interfaz de admin zona");
@@ -66,3 +64,4 @@ define("LANG_LAN_150", "[b] Buscar todo el núcleo antes de comentar cualquier L
 define("LANG_LAN_151", "Disponible");
 define("LANG_LAN_152", "Cortesía del [equipo de traducciones de e107]");
 define("LANG_LAN_153", "Prelanzamiento");
+define("LANG_LAN_154", "El Paquete de Idioma ha sido creado. Ahora puedes enviarlo al repositorio Github como se indica [aquí].");

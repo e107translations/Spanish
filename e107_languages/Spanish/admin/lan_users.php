@@ -202,6 +202,7 @@ define("USRLAN_253", "Mayor que");
 define("USRLAN_254", "Restablecer todas las contraseñas");
 define("USRLAN_255", "Notificar al Usuario");
 define("USRLAN_256", "Querido");
+define("USRLAN_257", "¿Permitir que los miembros eliminen su cuenta?");
 define("UCSLAN_1", "Envío de correo electrónico de notificación a");
 define("UCSLAN_2", "Privilegios actualizados");
 define("UCSLAN_4", "Sus privilegios han sido actualizados en el");

@@ -128,6 +128,7 @@ define("LAN_AL_WELCOME_02", "Mensaje de bienvenida actualizado");
 define("LAN_AL_WELCOME_03", "Eliminada mensaje de bienvenida");
 define("LAN_AL_WELCOME_04", "Opciones de mensaje de bienvenida cambiadas");
 define("LAN_AL_ADMINPW_01", "Cambiada la contraseña de administrador");
+define("LAN_AL_ADMINPW_02", "Contraseña del administrador renovada");
 define("LAN_AL_BANNER_00", "Mensaje desconocido relacionado con la bandera");
 define("LAN_AL_BANNER_01", "Actualización de menú de la bandera");
 define("LAN_AL_BANNER_02", "Banner creado");

@@ -266,3 +266,4 @@ define("LAN_PLUGIN_IS_USED", "[X] Plugin es utilizado por:");
 define("EPL_ADLAN_254", "Esto verificará los archivos de idioma de su complemento para detectar errores y definiciones LAN comunes o duplicadas.");
 define("EPL_ADLAN_255", "Sobrescribir archivos");
 define("EPL_ADLAN_256", "Saltado [x] (ya existe)");
+define("EPL_ADLAN_257","Sólo lectura");
