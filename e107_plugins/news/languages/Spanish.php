@@ -4,9 +4,9 @@
 |        e107 website content management system Spanish Language File
 |        Released under the terms and conditions of the
 |        GNU General Public License (http://gnu.org).
-|        Last Modified: 2017/11/11 20:27:39
+|        Last Modified: 2020/11/17 20:12:39
 |
-|        $Author: Norwayman $
+|        $Author: tgtje $
 +---------------------------------------------------------------+
 */
 

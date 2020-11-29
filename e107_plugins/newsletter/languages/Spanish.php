@@ -4,9 +4,9 @@
 |        e107 website content management system Spanish Language File
 |        Released under the terms and conditions of the
 |        GNU General Public License (http://gnu.org).
-|        Last Modified: 2016/07/02 16:44:27
+|        Last Modified: 2020/11/17 20:15:46
 |
-|        $Author: Norwayman $
+|        $Author: tgtje $
 +---------------------------------------------------------------+
 */
 
@@ -22,7 +22,4 @@ define("NLLAN_68", "Parámetro no válido definido");
 define("NLLAN_69", "No envía boletines informativos disponibles.");
 define("NLLAN_70", "Boletín seleccionado no existe");
 define("NLLAN_72", "Ver archivo");
-define("NLLAN_73", "Introduce tu correo electrónico");
-
-
-?>
+define("NLLAN_73", "Ingrese su correo electrónico");

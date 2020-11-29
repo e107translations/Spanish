@@ -1,8 +1,14 @@
 <?php
-
-// Bing-Translated Language file 
-// Generated for e107 v2.x by the Multi-Language Plugin
-// https://github.com/e107inc/multilan
+/*
++---------------------------------------------------------------+
+|        e107 website content management system Spanish Language File
+|        Released under the terms and conditions of the
+|        GNU General Public License (http://gnu.org).
+|        Last Modified: 2020/11/17 14:03:32
+|
+|        $Author: tgtje $
++---------------------------------------------------------------+
+*/
 
 define("LAN_dl_1", "(Restringido)");
 define("LAN_dl_4", "Archivos disponibles:");
@@ -25,15 +31,9 @@ define("LAN_dl_46", "Haga clic aquí para descargar");
 define("LAN_dl_47", "El post se ha divulgado");
 define("LAN_dl_48", "Descarga se ha divulgado al administrador.<br>Gracias.");
 define("LAN_dl_49", "Haga clic aquí para volver a descargar");
-define("LAN_dl_50", "Descargar roto registrado");
-define("LAN_dl_51", "Descarga de informes:");
 define("LAN_dl_53", "Haga clic para ver descargar");
 define("LAN_dl_54", "Un administrador se hará consciente de esta descarga, por favor deja un mensaje si lo sientes necesario.");
 define("LAN_dl_55", "No utilice este formulario para contactar con el administrador por cualquier otra razón.");
-define("LAN_dl_57", "reportado por");
-define("LAN_dl_58", "La siguiente descarga se ha divulgado como quebrado de sitio");
-define("LAN_dl_59", "Reportado por:");
-define("LAN_dl_60", "Informe de descarga fallida de");
 define("LAN_dl_62", "Han impedido descargando este archivo; Usted ha excedido su cuota de descarga");
 define("LAN_dl_63", "Usted no tiene los permisos correctos para descargar este archivo.");
 define("LAN_dl_66", "Seleccione descargar espejo");
@@ -45,3 +45,4 @@ define("LAN_dl_74", "Total descargas desde este mirror:");
 define("LAN_dl_75", "no hay imagen disponible");
 define("LAN_dl_77", "Descargas");
 define("LAN_dl_78", "Descarga ha sido desactivado o descatalogado. Por favor comprueba en el [área de descargas] para una versión más reciente.");
+define("LAN_dl_79", "No tienes los permisos correctos para reportar este elemento de descarga como roto.");

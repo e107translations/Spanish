@@ -4,16 +4,17 @@
 |        e107 website content management system Spanish Language File
 |        Released under the terms and conditions of the
 |        GNU General Public License (http://gnu.org).
-|        Last Modified: 2016/03/19 23:35:26
+|        Last Modified: 2020/11/17 20:21:36
 |
-|        $Author: Administrador $
+|        $Author: tgtje $
 +---------------------------------------------------------------+
 */
+
 define("LAN_PM", "Mensaje privado");
 define("LAN_PM_1", "Enviar mensaje privado");
 define("LAN_PM_2", "Para");
 define("LAN_PM_3", "Vista previa");
-define("LAN_PM_4", "Clase de usuario");
+define("LAN_PM_4", "Userclass");
 define("LAN_PM_5", "Asunto");
 define("LAN_PM_6", "Mensaje");
 define("LAN_PM_7", "Tritura Nehofito");
@@ -63,7 +64,7 @@ define("LAN_PM_54", "Presupuesto original");
 define("LAN_PM_55", "Enviar respuesta");
 define("LAN_PM_56", "No se le permite responder a este mensaje");
 define("LAN_PM_57", "Mensaje no encontrado");
-define("LAN_PM_58", "Respecto a:");
+define("LAN_PM_58", "Re:");
 define("LAN_PM_59", "Ir a la página:");
 define("LAN_PM_60", "No estás autorizado a ver este mensaje");
 define("LAN_PM_61", "No tema");
@@ -89,9 +90,6 @@ define("LAN_PM_108", "Mensaje:");
 define("LAN_PM_109", "Nuevo mensaje (s)");
 define("LAN_PM_111", "Leer");
 define("LAN_PM_112", "Usuario(s)");
-define("LAN_PM_113", "Leer el mensaje");
-define("LAN_PM_114", "Usted no tiene acceso para enviar a este usuario.");
+define("LAN_PM_113", "Lea el mensaje");
+define("LAN_PM_114", "No tienes acceso para enviar a este usuario.");
 define("LAN_PM_115", "Usuario no encontrado");
-
-
-?>

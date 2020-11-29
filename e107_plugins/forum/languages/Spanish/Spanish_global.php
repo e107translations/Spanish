@@ -4,9 +4,9 @@
 |        e107 website content management system Spanish Language File
 |        Released under the terms and conditions of the
 |        GNU General Public License (http://gnu.org).
-|        Last Modified: 2016/04/01 21:39:12
+|        Last Modified: 2020/11/17 14:31:12
 |
-|        $Author: Administrador $
+|        $Author: tgtje $
 +---------------------------------------------------------------+
 */
 
@@ -19,6 +19,3 @@ define("FORUM_LAN_URL_DEFAULT_LABEL", "Por defecto Foro URLs");
 define("FORUM_LAN_URL_DEFAULT_DESCR", "URL de 'GET tipo' sin punto de entrada única. Ejemplos:<br>http://yoursite.com/e107_plugins/Forum/Forum.php (discusión)<br>http://yoursite.com/e107_plugins/Forum/forum_viewtopic.php?id=2 (vista de hilos)");
 define("FORUM_LAN_URL_REWRITE_LABEL", "SEF URLs de foro (en desarrollo)");
 define("FORUM_LAN_URL_REWRITE_DESCR", "Ejemplos:<br>BAJO DESARROLLO");
-
-
-?>

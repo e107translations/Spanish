@@ -4,9 +4,9 @@
 |        e107 website content management system Spanish Language File
 |        Released under the terms and conditions of the
 |        GNU General Public License (http://gnu.org).
-|        Last Modified: 2017/04/23 21:37:19
+|        Last Modified: 2020/11/17 20:18:49
 |
-|        $Author: Norwayman $
+|        $Author: tgtje $
 +---------------------------------------------------------------+
 */
 
@@ -63,13 +63,3 @@ define("ADSTAT_L50", "Estadísticas de todos los tiempos");
 define("ADSTAT_L51", "Estadísticas del mes actual");
 define("ADSTAT_L52", "Estadísticas del mes anterior");
 define("ADSTAT_L53", "Información");
-define("ADSTAT_L54", "");
-define("ADSTAT_L55", "");
-define("ADSTAT_L56", "");
-define("ADSTAT_L57", "");
-define("ADSTAT_L58", "");
-define("ADSTAT_L59", "");
-define("ADSTAT_L60", "");
-
-
-?>
