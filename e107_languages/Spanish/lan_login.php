@@ -9,7 +9,6 @@
 |        $Author: Norwayman $
 +---------------------------------------------------------------+
 */
-
 define("LAN_LOGIN_1", "Nombre de usuario");
 define("LAN_LOGIN_2", "Contraseña de usuario");
 define("LAN_LOGIN_3", "Servidor protegido");
@@ -45,6 +44,5 @@ define("LAN_LOGIN_32", "Estás viendo este mensaje porque has iniciado sesión c
 define("LAN_LOGIN_33", "[Vuelve a la página inicial]");
 define("LAN_LOGIN_34", "El registro de usuario y/o el inicio de sesión están actualmente deshabilitados.");
 define("LAN_LOGIN_35", "[Permitirle]");
-
-
-?>
+define("LAN_LOGIN_36", "Los correos electrónicos a la [x] están rebotando. Por favor [verifique que su dirección de correo electrónico sea correcta].");
+define("LAN_LOGIN_37", "Su cuenta aún no ha sido activada por un administrador del sitio.");

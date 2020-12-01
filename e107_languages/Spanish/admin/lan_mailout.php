@@ -241,6 +241,7 @@ define("LAN_MAILOUT_254", "Correo electrónico con plantillas de vista");
 define("LAN_MAILOUT_255", "Plantilla correo electrónico, ID:");
 define("LAN_MAILOUT_256", "Volver");
 define("LAN_MAILOUT_257", "Plantilla generada");
+define("LAN_MAILOUT_259", "No hay "fuentes de direcciones de correo electrónico" seleccionadas en Preferencias");
 define("LAN_SEND", "Enviar");
 define("LAN_HOLD", "Mantenga");
 define("LAN_MAILOUT_260", "Tipo de usuario");

@@ -9,7 +9,6 @@
 |        $Author: Norwayman $
 +---------------------------------------------------------------+
 */
-
 define("LAN_CRON_M_02", "Actualización");
 define("LAN_CRON_2", "Función");
 define("LAN_CRON_3", "Ficha");
@@ -43,7 +42,6 @@ define("LAN_CRON_20_3", "Se recomienda para mantener el sistema actualizado.");
 define("LAN_CRON_20_4", "Actualizar este repositorio Git");
 define("LAN_CRON_20_5", "Actualizar esta instalación e107 con los archivos más recientes de github.");
 define("LAN_CRON_20_6", "Recomendado para desarrolladores sólo.");
-define("LAN_CRON_20_7", "¡ ADVERTENCIA!");
 define("LAN_CRON_20_8", "Puede causar inestabilidad del sitio!");
 define("LAN_CRON_30", "Cada minuto");
 define("LAN_CRON_31", "Cada otro minuto");
@@ -63,6 +61,8 @@ define("LAN_CRON_51", "Hora (s):");
 define("LAN_CRON_52", "Día (s):");
 define("LAN_CRON_53", "Mes (es):");
 define("LAN_CRON_54", "WEEKDAY(s):");
+define("LAN_CRON_55", "La copia de seguridad de la base de datos falló");
+define("LAN_CRON_56", "Copia de seguridad de la base de datos completa");
 define("LAN_CRON_60", "Ir a cPanel");
 define("LAN_CRON_61", "Generar nueva contraseña cron");
 define("LAN_CRON_62", "Ejecutar la función de configuración [b] [x] [/b]");
@@ -71,6 +71,6 @@ define("LAN_CRON_64", "Un administrador puede automatizar las tareas utilizando 
 define("LAN_CRON_BACKUP", "Copia de seguridad");
 define("LAN_CRON_LOGGING", "Registro");
 define("LAN_CRON_RUNNING", "Corriendo");
-
-
-?>
+define("LAN_CRON_65", "Actualizar el repositorio de temas de git");
+define("LAN_CRON_66", "No se ha encontrado ningún repo de git");
+define("LAN_CRON_67", "No se encontró ningún repo de git en la carpeta de temas");

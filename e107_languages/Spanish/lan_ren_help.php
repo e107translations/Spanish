@@ -9,7 +9,6 @@
 |        $Author: Administrador $
 +---------------------------------------------------------------+
 */
-
 define("LANHELP_1", "Negro");
 define("LANHELP_2", "Azul");
 define("LANHELP_3", "Marrón");
@@ -64,6 +63,14 @@ define("LANHELP_51", "Desactivar nuevas líneas de HTML para el texto adjunto: [
 define("LANHELP_52", "Nueva línea (HTML): [br]");
 define("LANHELP_53", "Justificar alinear: \n [justificar] este texto será justificado [/ justificar]");
 define("LANHELP_54", "Bloque HTML (etiqueta div): [bloque] contenido [/block]");
-
-
-?>
+define("LANHELP_55", "Formato");
+define("LANHELP_56", "Insertar una tabla");
+define("LANHELP_57", "Dirección:");
+define("LANHELP_58", "Bloqueo");
+define("LANHELP_59", "Cita");
+define("LANHELP_60", "Bloqueo de código");
+define("LANHELP_61", "Código en línea");
+define("LANHELP_62", "Párrafo");
+define("LANHELP_63", "Insertar una imagen del Administrador de Medios");
+define("LANHELP_64", "Inserte un archivo del Media-Manager");
+define("LANHELP_65", "Tamaño");

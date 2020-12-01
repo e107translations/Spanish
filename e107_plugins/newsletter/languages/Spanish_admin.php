@@ -4,9 +4,9 @@
 |        e107 website content management system Spanish Language File
 |        Released under the terms and conditions of the
 |        GNU General Public License (http://gnu.org).
-|        Last Modified: 2017/11/11 20:28:32
+|        Last Modified: 2020/11/17 20:16:40
 |
-|        $Author: Norwayman $
+|        $Author: tgtje $
 +---------------------------------------------------------------+
 */
 
@@ -31,7 +31,7 @@ define("NLLAN_33", "Texto");
 define("NLLAN_36", "Edición de boletín de actualización");
 define("NLLAN_37", "Crear Newsletter Edición");
 define("NLLAN_39", "Edición de boletín guardado en la base de datos - para enviar, haga clic en el \'Release Issue\' botón en el menú de opciones.");
-define("NLLAN_40", "Mailout agrega a mailout cola - tema enviado a [x] suscriptor(es).");
+define("NLLAN_40", "Mailout añadido a la cola de envío - número enviado a [x] suscriptor(es).");
 define("NLLAN_41", "No suscriptores encontrados - correo cancelado");
 define("NLLAN_44", "Portada del boletín");
 define("NLLAN_45", "Crear Newsletter");

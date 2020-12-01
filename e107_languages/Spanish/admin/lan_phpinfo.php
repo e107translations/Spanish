@@ -9,13 +9,11 @@
 |        $Author: Norwayman $
 +---------------------------------------------------------------+
 */
-
 define("PHP_LAN_1", "Si tienes activado Curl, deberías considerar inhabilitar esta función.");
 define("PHP_LAN_2", "Este es un riesgo de seguridad y no es necesario por e107.");
 define("PHP_LAN_3", "En un servidor de producción, es mejor desactivar la visualización de errores en el navegador.");
 define("PHP_LAN_4", "Al deshabilitar esto, se oculta la versión de PHP de los navegadores.");
 define("PHP_LAN_5", "Este es un riesgo de seguridad y debe estar deshabilitado.");
 define("PHP_LAN_6", "[b]session.save_path[/b] no se puede escribir! Eso puede causar problemas importantes con su sitio.");
-
-
-?>
+define("PHP_LAN_7", "Problemas de configuración de PHP encontrados:");
+define("PHP_LAN_8", "[x] ha desaparecido y necesita ser instalado.");

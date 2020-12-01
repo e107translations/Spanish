@@ -46,3 +46,4 @@ define("LAN_UPDATE_56", "Actualización del sistema");
 define("LAN_UPDATE_57", "Antes de continuar, manualmente borrar las siguientes carpetas anticuadas de su sistema:");
 define("LAN_UPDATE_CAPTION_PLUGIN", "Actualizaciones del plugin");
 define("LAN_UPDATE_CAPTION_CORE", "Actualizaciones de la base");
+define("LAN_UPDATE_58", "Se recomienda encarecidamente que ejecute el [Inspector de Archivos] después de haber completado todas las actualizaciones, con el fin de detectar cualquier archivo obsoleto que deba ser eliminado.");

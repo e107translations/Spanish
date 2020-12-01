@@ -4,15 +4,16 @@
 |        e107 website content management system Spanish Language File
 |        Released under the terms and conditions of the
 |        GNU General Public License (http://gnu.org).
-|        Last Modified: 2016/02/24 18:32:03
+|        Last Modified: 2020/11/17 13:49:21
 |
-|        $Author: Administrador $
+|        $Author: tgtje $
 +---------------------------------------------------------------+
 */
+
 define("BNRLAN_00", "No hay banners creados todavía.");
 define("BNRLAN_01", "Banner ID no encontrado.");
 define("BNRLAN_11", "Campaña");
-define("BNRLAN_12", "Acceso Clientes");
+define("BNRLAN_12", "Client Login");
 define("BNRLAN_15", "Haga clic en URL");
 define("BNRLAN_16", "Número de impresiones comprado");
 define("BNRLAN_25", "Agregar nuevo o elegir campaña existente");
@@ -33,10 +34,6 @@ define("BNRLAN_45", "Una campaña en un único menú");
 define("BNRLAN_46", "Todas las campañas en un solo menú");
 define("BNRLAN_47", "Todas las campañas en menús separados");
 define("BNRLAN_48", "Todas las campañas (no representación de la caja)");
-define("BNRLAN_50", "Loca");
+define("BNRLAN_50", "Local");
 define("BNRLAN_51", "Remoto");
-define("BNRLAN_HELP_01", "Bandera Ayuda");
-define("BNRLAN_HELP_02", "Utilice este complemento para administrar la publicidad en su sitio web. <br /> <br /> Al crear un nuevo banner, puede crear un nombre de usuario y una contraseña para que su cliente inicie sesión y compruebe el progreso de la campaña. <br /> <br /> Puede habilitar el menú de banners utilizando el administrador de menús y realizar una configuración adicional desde allí.");
-
-
-?>
+define("BNRLAN_HELP_02", "Utiliza este plugin para gestionar la publicidad en tu sitio web.[br][br]Al crear un nuevo banner puedes crear un nombre de usuario y una contraseña para que tu cliente se registre y compruebe el progreso de la campaña. [br][br]Puedes habilitar el menú de banners usando el administrador de menú y realizar más configuraciones desde allí.");

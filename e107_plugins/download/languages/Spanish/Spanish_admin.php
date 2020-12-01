@@ -4,15 +4,16 @@
 |        e107 website content management system Spanish Language File
 |        Released under the terms and conditions of the
 |        GNU General Public License (http://gnu.org).
-|        Last Modified: 2016/02/24 18:36:41
+|        Last Modified: 2020/11/17 14:02:08
 |
-|        $Author: Administrador $
+|        $Author: tgtje $
 +---------------------------------------------------------------+
 */
 define("LAN_DL_OPTIONS", "Opciones");
 define("LAN_DL_DOWNLOAD_OPT_GENERAL", "General");
 define("LAN_DL_DOWNLOAD_OPT_BROKEN", "Presentación de informes");
 define("LAN_DL_DOWNLOAD_OPT_AGREE", "Acuerdos de");
+define("LAN_DL_DOWNLOAD_OPT_SECURITY", "Protección");
 define("LAN_DL_UPLOAD", "Subir");
 define("LAN_DL_USE_PHP", "Uso PHP");
 define("LAN_DL_USE_PHP_INFO", "Comprobación de esto enviará que todos descargar las solicitudes a través de PHP");
@@ -20,6 +21,7 @@ define("LAN_DL_SUBSUB_CAT", "Ver sub sub-categorías");
 define("LAN_DL_SUBSUB_CAT_INFO", "Comprobación de esto mostrará el sub sub-categorías en la página de descarga principal");
 define("LAN_DL_SUBSUB_COUNT", "Combinar cuentas de categoría");
 define("LAN_DL_SUBSUB_COUNT_INFO", "Incluyen el recuento de sub-sub-categoría en Subcategoría cuenta");
+define("LAN_DL_BROKENDOWNLOADSREPORTS", "Informes de descargas rotas");
 define("DOWLAN_1", "Descargar base de datos.");
 define("DOWLAN_2", "Descargar actualizada la base de datos.");
 define("DOWLAN_5", "Hay no hay categorías de descarga definidos todavía, hasta que definas algunos que usted no puede entrar ningún tipo de descarga.");
@@ -41,8 +43,7 @@ define("DOWLAN_23", "Tipos de archivo");
 define("DOWLAN_24", "Actualización de");
 define("DOWLAN_25", "Enviar descarga");
 define("DOWLAN_27", "Descargar");
-define("DOWLAN_28", "Ninguno");
-define("DOWLAN_29", "Pedido");
+define("DOWLAN_29", "Solicitado");
 define("DOWLAN_31", "Categorías");
 define("DOWLAN_32", "Descargas");
 define("DOWLAN_33", "¿Está seguro que desea eliminar esta descarga?");
@@ -70,7 +71,7 @@ define("DOWLAN_109", "cada");
 define("DOWLAN_110", "días");
 define("DOWLAN_111", "KB");
 define("DOWLAN_112", "Límites");
-define("DOWLAN_113", "Clase de Usuario");
+define("DOWLAN_113", "Userclass");
 define("DOWLAN_114", "Añadir nuevo límite");
 define("DOWLAN_115", "Actualización de límites");
 define("DOWLAN_122", "Inactivo");
@@ -98,7 +99,6 @@ define("DOWLAN_145", "Descargar visible a");
 define("DOWLAN_146", "Personalizada mensaje descargar-negación o URL");
 define("DOWLAN_148", "Verificación actualizar fecha hora actual");
 define("DOWLAN_149", "URL");
-define("DOWLAN_150", "Administrador de correo electrónico cuando informó de la descargar roto");
 define("DOWLAN_151", "Roto-descargar informes disponibles para");
 define("DOWLAN_152", "No podía mover archivo");
 define("DOWLAN_153", "Mover el archivo en la carpeta de descarga");
@@ -137,6 +137,7 @@ define("DOWLAN_193", "Seleccione la opción");
 define("DOWLAN_195", "Tipo espejo");
 define("DOWLAN_196", "lista");
 define("DOWLAN_197", "al azar");
+define("DOWLAN_199", "Presentado por");
 define("DOWLAN_HELP_1", "Ayuda");
 define("DOWLAN_HELP_2", "<p>Crear/editar una descarga.</p><p>Ingrese sólo uno de: archivo, enlace o espejo.</p><p>Asegúrese de seleccionar una categoría, de lo contrario la descarga no será visible en la página de descargas.</p>");
 define("DOWLAN_HELP_3", "Ayuda para el gato");
@@ -147,6 +148,13 @@ define("DOWLAN_HELP_7", "Ayuda para el espejo");
 define("DOWLAN_HELP_8", "Ayuda para cargar lista");
 define("DOWLAN_HELP_9", "Ayuda para subir tipos");
 define("DOWLAN_HELP_10", "Ayuda para las opciones de carga");
-
-
-?>
+define("DOWLAN_HELP_11", "Haz clic en el botón "Suprimir" para eliminar el informe.[br][br]Haz clic en el botón "Ver" para gestionar la descarga.[br][br]Para que te notifiquen cualquier nuevo informe, consulta la [configuración de notificación].");
+define("LAN_DL_SECURITY_DESCRIPTION", "Las descargas pueden hacer uso de las funciones de protección de URL del lado del servidor para evitar los enlaces directos y/o hacer cumplir la caducidad del enlace. " . "Esta sección debe ser configurada antes de que el servidor de descargas se configure para reducir la posibilidad de interrupción de las descargas.");
+define("LAN_DL_SECURITY_MODE", "Modo de protección de URL");
+define("LAN_DL_SECURITY_MODE_NONE", "Ninguno (por defecto)");
+define("LAN_DL_SECURITY_MODE_NGINX_SECURELINKMD5", "NGINX secure_link_md5");
+define("LAN_DL_SECURITY_NGINX_SUPPORTED_VARIABLES_TOGGLE", "Haga clic para cambiar la lista de variables NGINX soportadas");
+define("LAN_DL_SECURITY_NGINX_SECURELINKMD5_EXPRESSION", "<a target='_blank' href='https://nginx.org/en/docs/http/ngx_http_secure_link_module.html#secure_link_md5'>NGINX secure_link_md5 expression</a>");
+define("LAN_DL_SECURITY_NGINX_SECURELINKMD5_EXPRESSION_HELP", "La misma expresión que la configurada en el servidor");
+define("LAN_DL_SECURITY_LINK_EXPIRY", "Duración de la validez en segundos");
+define("LAN_DL_SECURITY_LINK_EXPIRY_HELP", "Número de segundos que el enlace de descarga debe durar después de ser generado. " . "Sólo es efectivo si la expresión soporta el tiempo de caducidad. " . "Se deja un tiempo muy largo si este campo se deja en blanco.");

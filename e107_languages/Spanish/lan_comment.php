@@ -74,6 +74,3 @@ define("COMLAN_TYPE_8", "perfil de usuario");
 define("COMLAN_TYPE_PAGE", "Contenido");
 define("COMLAN_500", "Por favor, [inicia sesión] para dejar un comentario.");
 define("COMLAN_501", "Si aún no está registrado, es posible que [haga clic aquí para registrarse].");
-
-
-?>

@@ -122,3 +122,4 @@ define("BANLAN_123", "Añadir a lista negra");
 define("BANLAN_124", "Vence");
 define("BANLAN_125", "Uso mi IP");
 define("BANLAN_126", "IP / Correo eletrónico");
+define("BANLAN_127", "Eliminar todos los [x] inicios de sesión fallidos de la base de datos");

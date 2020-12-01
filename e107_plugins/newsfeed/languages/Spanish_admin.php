@@ -4,11 +4,12 @@
 |        e107 website content management system Spanish Language File
 |        Released under the terms and conditions of the
 |        GNU General Public License (http://gnu.org).
-|        Last Modified: 2016/05/22 16:58:35
+|        Last Modified: 2020/11/17 20:15:20
 |
-|        $Author: Norwayman $
+|        $Author: tgtje $
 +---------------------------------------------------------------+
 */
+
 define("NFLAN_11", "Camino a la imagen");
 define("NFLAN_12", "Activación");
 define("NFLAN_13", "En ninguna parte (inactivo)");
@@ -19,9 +20,6 @@ define("NFLAN_20", "En sólo la Página principal de noticias");
 define("NFLAN_21", "En la página menú y noticias");
 define("NFLAN_26", "Intervalo de actualización");
 define("NFLAN_43", "Noticias ayuda");
-define("NFLAN_42", "[h=4] Canal de noticias Título [/h] Introduzca un nombre para identificar el feed de noticias con precisión. [h=4]URL para el feed RSS [/h] El proveedor de RSS le dará una dirección web (URL) para el flujo de noticias. [h=4]Camino a la imagen [/h] Si el proveedor especifica una imagen para usar, escriba "default" para usarla o elija usar su propia imagen ingresando la dirección de inmadurez. Deje en blanco para no utilizar ninguna imagen. [h=4] Descripción [/h] Introduzca una breve descripción del feed o 'default' para utilizar la descripción definida en el feed (si existe). [h=4] Intervalo de actualización [/h] Introduzca el número de segundos antes de actualizar el feed. Por ejemplo, 1800 = 30 minutos, 3600 = 1 hora, 86400 = 1 día. [h=4] Activación [/h] Los canales de noticias sólo se pueden visualizar en el menú o en la página de noticias. Introduzca los detalles donde se deben mostrar los feeds. Para ver los canales de noticias en los menús e107 necesitará activar el menú [b] Newsfeeds [b/] en [link=".e_ADMIN."menus.php] Administrador de menús[/link]. [h=4] Sugerencia [/h] Hay muchas directories de alimentación en la web, intente [link=https://www.dmoz.org/Computers/Internet/On_the_Web/Syndication_and_Feeds/RSS/Directories/ external]dmoz[/link] or [link=http://www.feedster.com/ external]feedster.com[/link]");
+define("NFLAN_42", "[h=4]Título de la noticia[/h] Introduce un nombre para identificar la noticia con precisión. [h=4]URL de la fuente RSS[/h] El proveedor de RSS le dará una dirección web (URL) para la fuente de noticias. [h=4]Ruta a la imagen[/h] Si el proveedor especifica una imagen a utilizar, introduzca 'por defecto' para utilizarla o elija utilizar su propia imagen introduciendo la dirección de la imagen. Deje en blanco para no utilizar ninguna imagen. h=4]Descripción[/h] Introduce una breve descripción para el feed, o 'por defecto' para utilizar la descripción definida en el feed (si existe). [h=4]Intervalo de actualización[/h] Introduzca el número de segundos antes de que se actualice el feed. Por ejemplo, 1800 = 30 minutos, 3600 = 1 hora, 86400 = 1 día. h=4]Activación[/h] Las actualizaciones se pueden mostrar sólo en el menú o en la página de actualizaciones. Introduzca los detalles donde deben mostrarse los feeds. Para ver los newsfeeds en los menús del e107, deberá activar el menú [b]Newsfeeds[/b] en [link=".e_ADMIN. "menus.php]Menu Manager[/link]. [h=4]Tip[/h] Hay muchas direcotrías de feeds en la web, prueba con [link=https://www.dmoz.org/Computers/Internet/On_the_Web/Syndication_and_Feeds/RSS/Directories/ external]dmoz[/link] o [link=http://www.feedster.com/ external]feedster.com[/link]");
 define("NFLAN_45", "Número de elementos a mostrar en el menú");
 define("NFLAN_46", "Número de elementos a mostrar en la Página principal");
-
-
-?>

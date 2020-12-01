@@ -4,9 +4,9 @@
 |        e107 website content management system Spanish Language File
 |        Released under the terms and conditions of the
 |        GNU General Public License (http://gnu.org).
-|        Last Modified: 2017/06/20 20:56:17
+|        Last Modified: 2020/11/18 14:06:57
 |
-|        $Author: Norwayman $
+|        $Author: tgtje $
 +---------------------------------------------------------------+
 */
 
@@ -25,8 +25,5 @@ define("POLLAN_40", "Haga clic aquí para ver los resultados");
 define("POLLAN_41", "Esta encuesta está restringida a los miembros de");
 define("POLLAN_42", "Esta encuesta está restringida a sólo los administradores");
 define("POLLAN_43", "No tienes los permisos necesarios para votar en esta encuesta");
-define("POLLAN_50", "Activos de [x] a [y]");
+define("POLLAN_50", "Activo de la [x] a la [y]");
 define("LAN_FORUM_3029", "Si no desea agregar una encuesta a tu tema, deje los campos en blanco.");
-
-
-?>

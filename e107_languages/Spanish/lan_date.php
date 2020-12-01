@@ -28,7 +28,7 @@ define("LANDT_08s", "minutos");
 define("LANDT_09", "seg");
 define("LANDT_09s", "segs");
 define("LANDT_AGO", "hace");
+define("LANDT_IN", "en");
 define("LANDT_10", "Justo ahora");
-
-
-?>
+define("LANDT_XAGO", "[x] hace");
+define("LANDT_INX", "en [x]");
