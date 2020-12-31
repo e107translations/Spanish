@@ -36,9 +36,9 @@ define("COMLAN_310", "No se puede aceptar puesto username es registrado - si es 
 define("COMLAN_312", "Post duplicado - no podemos aceptar.");
 define("COMLAN_313", "Ubicación");
 define("COMLAN_314", "Comentario moderado");
-define("COMLAN_315", "Rastreas");
-define("COMLAN_316", "No hay rastreas para este newspost.");
-define("COMLAN_317", "Moderados rastreas");
+//define("COMLAN_315", "Rastreas");
+//define("COMLAN_316", "No hay rastreas para este newspost.");
+//define("COMLAN_317", "Moderados rastreas");
 define("COMLAN_318", "Editar comentario");
 define("COMLAN_319", "editado");
 define("COMLAN_320", "Comentario de actualización");
