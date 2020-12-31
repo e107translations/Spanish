@@ -91,8 +91,8 @@ define("LAN_NEWS_29", "Seleccione si la noticia será pegajoso");
 define("LAN_NEWS_30", "Si selecciona, noticia aparecerá sobre todo otros");
 define("LAN_NEWS_32", "Fecha");
 define("LAN_NEWS_33", "Establecer la fecha de la noticia actual");
-define("LAN_NEWS_34", "Rastrear");
-define("LAN_NEWS_35", "Añadir URL de retroacceso");
+//define("LAN_NEWS_34", "Rastrear");
+//define("LAN_NEWS_35", "Añadir URL de retroacceso");
 define("LAN_NEWS_37", "Una URL por línea)");
 define("LAN_NEWS_49", "Tipo de procesamiento");
 define("LAN_NEWS_51", "Modificación del autor noticia puede hacerse:");
@@ -145,6 +145,3 @@ define("LAN_NEWS_108", "La URL de SEF es diferente al título de su artículo de
 define("LAN_NEWS_109", "Inicie una notificación por correo electrónico cuando envíe este formulario.");
 define("LAN_NEWS_110", "Tiempo de espera de caché de noticias");
 define("LAN_NEWS_111", "Tiempo en minutos. Sólo se aplica cuando la caché del sistema está habilitada.");
-
-
-?>
