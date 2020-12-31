@@ -413,3 +413,4 @@ define("LAN_ROBOTS_NOINDEX", "Evitar que los motores de búsqueda indexen este a
 define("LAN_ROBOTS_NOFOLLOW", "Evitar que los motores de búsqueda sigan los enlaces de este artículo.");
 define("LAN_ROBOTS_NOARCHIVE", "Evitar que las copias en caché de este artículo aparezcan en los resultados de la búsqueda.");
 define("LAN_ROBOTS_NOIMAGE", "Evitar que los motores de búsqueda indexen las imágenes de este artículo.");
+define("LAN_NAVIGATION", "Enlaces de navegación");
