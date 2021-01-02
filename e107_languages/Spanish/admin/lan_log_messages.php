@@ -146,6 +146,7 @@ define("LAN_AL_LANG_02", "Mesas idioma eliminados");
 define("LAN_AL_LANG_03", "Mesas idioma creados");
 define("LAN_AL_LANG_04", "Zip idioma creado");
 define("LAN_AL_META_01", "Etiquetas meta actualizados");
+/*
 define("LAN_AL_DOWNL_01", "Descargar cambiados opciones");
 define("LAN_AL_DOWNL_02", "Descargar categoría creada");
 define("LAN_AL_DOWNL_03", "Descargar categoría actualizado");
@@ -160,6 +161,8 @@ define("LAN_AL_DOWNL_11", "Descargar límite borrado");
 define("LAN_AL_DOWNL_12", "Descargar mirror añadido");
 define("LAN_AL_DOWNL_13", "Descargar espejo actualizado");
 define("LAN_AL_DOWNL_14", "Descargar espejo eliminado");
+define("LAN_AL_DOWNL_15", "");
+*/
 define("LAN_AL_CPAGE_01", "Menú personalizado agregado");
 define("LAN_AL_CPAGE_02", "Menú personalizado actualizado");
 define("LAN_AL_CPAGE_03", "Menú personalizado eliminado");
