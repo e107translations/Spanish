@@ -25,7 +25,7 @@ define("LAN_CRON_04_2", "Proceso de la despedida retriggers.");
 define("LAN_CRON_04_3", "Sólo es necesario si reactivando de prohibiciones habilitadas.");
 define("LAN_CRON_05_1", "Backup de base de datos");
 define("LAN_CRON_05_2", "Copia de seguridad de la base de datos del sistema");
-define('LAN_CRON_06_1', "Disparador de la prohibición de procesos");
+define("LAN_CRON_06_1", "Disparador de la prohibición de procesos");
 define("LAN_CRON_6", "No podía importar preferencias");
 define("LAN_CRON_7", "No podía importar configuración de sincronización");
 define("LAN_CRON_8", "Configuración de sincronización importado para");
