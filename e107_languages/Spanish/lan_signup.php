@@ -9,7 +9,11 @@
 |        $Author: Administrador $
 +---------------------------------------------------------------+
 */
-define("PAGE_NAME", "Registro");
+if(!defined('PAGE_NAME'))
+{
+	define("PAGE_NAME", "Registro");
+}
+
 define("LAN_EMAIL_01", "Estimado");
 define("LAN_EMAIL_04", "Guarde este correo electrónico para su propia información.");
 define("LAN_EMAIL_05", "Su contraseña ha sido cifrada y no puede ser obtenido si usted pierde u olvida. Sin embargo usted puede solicitar una nueva contraseña si esto sucede.");
