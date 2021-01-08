@@ -9,7 +9,11 @@
 |        $Author: Administrador $
 +---------------------------------------------------------------+
 */
-define("PAGE_NAME", "Errores");
+if(!defined('PAGE_NAME')) // FIXME.
+{
+	define("PAGE_NAME", "Errores");
+}
+
 define("LAN_ERROR_TITLE", "¡Vaya!");
 define("LAN_ERROR_1", "Error 401 - autenticación fallado");
 define("LAN_ERROR_2", "La URL que has solicitado requiere un nombre de usuario correcto y una contraseña. Has introducido una contraseña incorrecta o tu navegador no soporta esta característica.");
