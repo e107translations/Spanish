@@ -7,6 +7,6 @@ if(!defined('PAGE_NAME')) // FIXME.
 {
 	define("PAGE_NAME", "Sitio cerrado temporalmente");
 }
-define("PAGE_NAME", "Sitio cerrado temporalmente");
+
 define("LAN_SITEDOWN_00", "está temporalmente cerrado");
 define("LAN_SITEDOWN_01", "Hemos cerrado temporalmente el sitio para un mantenimiento esencial. Esto no debería tomar mucho tiempo, por favor cheque atrás pronto, disculpas por las molestias.");
