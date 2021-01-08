@@ -9,7 +9,11 @@
 |        $Author: Administrador $
 +---------------------------------------------------------------+
 */
-define("PAGE_NAME", "Configuración de usuario");
+if(!defined('PAGE_NAME'))
+{
+	define("PAGE_NAME", "Configuración de usuario");
+}
+
 define("MAX_AVWIDTH", "Tamaño máximo del avatar (wxh) es");
 define("MAX_AVHEIGHT", "x");
 define("LAN_USET_1", "Tu avatar es demasiado ancho");
