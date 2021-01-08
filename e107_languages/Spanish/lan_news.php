@@ -9,7 +9,11 @@
 |        $Author: Administrador $
 +---------------------------------------------------------------+
 */
-define("PAGE_NAME", "Noticias");
+if(!defined('PAGE_NAME')) // FIXME.
+{
+	define("PAGE_NAME", "Noticias");
+}
+
 define("LAN_NEWS_1", "Noticias específicos solo para miembros");
 define("LAN_NEWS_2", "No se permite ver esta noticia");
 define("LAN_NEWS_9", "Título sólo ocupa - <b>se mostrará sólo el título de noticias</b><br>");
