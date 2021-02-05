@@ -9,8 +9,26 @@
 |        $Author: Norwayman $
 +---------------------------------------------------------------+
 */
-
-define("UCSLAN_10", "Clase no borrado - es una clase de núcleo, o se utiliza en la definición de otra clase, como clase padre o editar");
+define("UCSLAN_3", "Clase eliminada");
+define("UCSLAN_5", "Clase actualizada");
+define("UCSLAN_6", "Clase almacenada en la base de datos");
+define("UCSLAN_7", "Todavía no es una clase de usuario");
+define("UCSLAN_8", "Clases disponibles");
+define("UCSLAN_9", "Sin icono");
+//define("UCSLAN_10", "Clase no borrado - es una clase de núcleo, o se utiliza en la definición de otra clase, como clase padre o editar");
+define("UCSLAN_11", "marque para confirmar");
+define("UCSLAN_12", "Nombre de la clase");
+define("UCSLAN_13", "Descripción de la clase");
+define("UCSLAN_14", "Actualizar clase de usuario");
+define("UCSLAN_15", "Crear nueva clase");
+define("UCSLAN_18", "Clase de limpieza");
+define("UCSLAN_20", "clase");
+define("UCSLAN_21", "Configuración de la clase de usuario");
+define("UCSLAN_24", "Administrador de clases");
+define("UCSLAN_25", "Crear/editar clases");
+define("UCSLAN_26", "Afiliación a la clase");
+define("UCSLAN_27", "Ayuda de depuración");
+define("UCSLAN_29", "Esa clase no debe ser eliminada");
 define("UCSLAN_30", "Nombre corto en selectores");
 define("UCSLAN_31", "Información sobre aplicabilidad de clase");
 define("UCSLAN_32", "Los usuarios de esta clase pueden añadir/quitar ellos mismos de la clase siendo editado");
