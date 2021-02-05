@@ -29,6 +29,7 @@ define("LAN_NEWS_18", "Información:");
 define("LAN_NEWS_19", "Ahora");
 define("LAN_NEWS_23", "Categorías de noticias");
 define("LAN_NEWS_24", "crear pdf de esta noticia");
+define("LAN_NEWS_25", "Edit");
 define("LAN_NEWS_31", "Noticia pegajoso");
 define("LAN_NEWS_82", "Noticias - Categoría");
 define("LAN_NEWS_83", "No hay noticias en este momento - Compruebe por favor detrás pronto.");
@@ -39,7 +40,8 @@ define("LAN_NEWS_87", "Noticias más recientes");
 define("LAN_NEWS_462", "No hay noticias para el mes especificado");
 define("LAN_NEWS_463", "No hay noticias para la categoría especificada - por favor vuelva pronto.");
 define("LAN_NEWS_464", "No hay noticias para el día especificado");
-define("LAN_NEWS_100", "En");
+//define("LAN_NEWS_100", "En");
+define("LAN_NEWS_300", "En"); //cambiado de LAN_100 en la versión 2.3.1
 define("LAN_NEWS_307", "Total entradas en esta categoría:");
 define("LAN_NEWS_308", "Tal vez usted está buscando una de las noticias a continuación?");
 define("LAN_NEWS_309", "Etiqueta");
