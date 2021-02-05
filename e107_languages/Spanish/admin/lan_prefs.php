@@ -263,3 +263,12 @@ define("PRFLAN_279", "¡Asegúrate de que la url existe! Es mejor usar una url a
 define("PRFLAN_280", "URL de los términos y condiciones del sitio web");
 define("PRFLAN_281", "Los 2 enlaces anteriores se utilizan en varias páginas de este sitio (por ejemplo, el formulario/menú de registro y contacto).\nPor favor, crea 2 páginas (si no lo has hecho ya) que contengan tu "Política de privacidad" y los "Términos y condiciones" del sitio web. \Copie las direcciones URL de estos sitios web en los campos de arriba (por ejemplo, /página/política de privacidad o /página/términos y condiciones).\n¡Sólo asegúrate de que las páginas y urls existan y funcionen!");
 define("PRFLAN_282", "Método de ahorro de sesión");
+define("PRFLAN_SESSION_HANDLER_LABEL", "Manejador de sesión");
+define("PRFLAN_SESSION_HANDLER_DATABASE", "Base de datos (sin bloqueo)");
+define("PRFLAN_SESSION_HANDLER_FILES_BLOCKING", "Archivos (nativos; bloqueantes)");
+define("PRFLAN_SESSION_HANDLER_FILES_NONBLOCKING", "Archivos (sin bloqueo)");
+define("PRFLAN_283", "Mostrar etiquetas de la barra de navegación");
+define("PRFLAN_284", "Contraer la barra de navegación por defecto");
+define('PRFLAN_285', "Mostrar consejos de ayuda de campo");
+define("PRFLAN_286", "Al pasar el ratón por el campo");
+define("PRFLAN_287", "Si pasa el ratón por encima de un icono de ayuda a la izquierda del campo.");
