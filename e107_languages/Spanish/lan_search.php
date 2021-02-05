@@ -9,9 +9,13 @@
 |        $Author: Norwayman $
 +---------------------------------------------------------------+
 */
+if(!defined('PAGE_NAME')) // TODO fix me
+{
+	define("PAGE_NAME", "Búsqueda de");
+}
 
-define("PAGE_NAME", "Búsqueda de");
 define("LAN_140", "Miembros de");
+define("LAN_180", "Búsqueda");
 define("LAN_192", "Todas las categorías");
 define("LAN_193", "Calendario de eventos");
 define("LAN_194", "Todas las categorías");
