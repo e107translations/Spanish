@@ -235,6 +235,7 @@ define("LAN_FORUM_7006", "Resultado");
 define("LAN_FORUM_7007", "Encontrado en hilo");
 define("LAN_FORUM_7008", "NO SE ENCONTRÓ");
 define("LAN_FORUM_7009", "No subidos archivos encontrados");
+define("LAN_FORUM_7010", "Nombre del archivo");
 define("LAN_FORUM_8001", "Una nueva entrada ha sido hecha por [x] bajo el tema [y] en [z].");
 define("LAN_FORUM_8002", "Por favor, haga clic en el siguiente enlace para ver el post completo ...");
 define("LAN_FORUM_8003", "Las notificaciones de correo electrónico para este tema están ahora activadas.");
