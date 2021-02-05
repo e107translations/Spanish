@@ -9,7 +9,11 @@
 |        $Author: Administrador $
 +---------------------------------------------------------------+
 */
-define("PAGE_NAME", "Usuario mensajes");
+if(!defined('PAGE_NAME'))
+{
+	define("PAGE_NAME", "Usuario mensajes"); // todo fix me
+}
+
 define("UP_LAN_0", "Todos los mensajes de foro para [x]");
 define("UP_LAN_1", "Todos los comentarios de [x]");
 define("UP_LAN_2", "Hilo de rosca");
