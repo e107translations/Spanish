@@ -86,7 +86,7 @@ define("USRLAN_128", "Username (nombre de usuario)");
 define("USRLAN_129", "Nombre real");
 define("USRLAN_130", "Activar el seguimiento de usuarios en línea");
 define("USRLAN_131", "Usted debe habilitar esta opción para usar opciones como online.php, foro en línea información y menús en línea de seguimiento de usuario en línea");
-define("USRLAN_132", "Permiten");
+//define("USRLAN_132", "Permiten");
 define("USRLAN_133", "Usuario de la fuerza para actualizar la configuración");
 define("USRLAN_134", "Habilitar esta opción enviará automáticamente al usuario a su configuración de usuario si no es un campo de usuario requerido.");
 define("USRLAN_135", "Ninguna dirección IP en la info del usuario; IP no prohibido");
