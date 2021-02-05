@@ -54,6 +54,7 @@ define("LAN_USET_40", "Las dos contraseñas no coinciden");
 define("LAN_USET_41", "Valores actualizados y guardados en la base de datos.");
 define("LAN_USET_42", "Discrepancia en la clave de validación");
 define("LAN_USET_43", "Error al actualizar datos de usuario");
+/*
 define("LAN_7", "Nombre para mostrar:");
 define("LAN_8", "el nombre aparece en el sitio");
 define("LAN_9", "Nombre de usuario:");
@@ -83,6 +84,7 @@ define("LAN_433", "Dirección URL de tu archivo XUP");
 define("LAN_434", "¿Qué es esto?");
 define("LAN_435", "Archivo de protocolo de usuario XML");
 define("LAN_CUSTOMTITLE", "Título personalizado");
+*/
 define("LAN_USET_5", "Suscrito a");
 define("LAN_USET_6", "Suscríbete a nuestro listas de correos y/o secciones de este sitio.");
 define("LAN_USET_50", "Borrar la cuenta");
