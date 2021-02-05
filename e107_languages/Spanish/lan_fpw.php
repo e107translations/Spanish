@@ -3,8 +3,11 @@
 // Bing-Translated Language file 
 // Generated for e107 v2.x by the Multi-Language Plugin
 // https://github.com/e107inc/multilan
+ if(!defined('PAGE_NAME')) // TODO Fix me.
+{
+	define("PAGE_NAME", "Restablecimiento de contraseña");
+}
 
-define("PAGE_NAME", "Restablecimiento de contraseña");
 define("LAN_02", "Lo sentimos, no se puede enviar un e-mail - póngate en contacto con el administrador del sitio principal.");
 define("LAN_03", "Restablecimiento de contraseña");
 define("LAN_05", "Para restablecer tu contraseña, introduce la siguiente información");
@@ -12,7 +15,7 @@ define("LAN_06", "Intento de restablecimiento de contraseña");
 define("LAN_07", "Alguien con dirección IP");
 define("LAN_08", "trató de restablecer la contraseña de administrador principal.");
 define("LAN_09", "Restablecimiento de contraseña");
-define("LAN_112", "Dirección de e-mail registrada en este sitio");
+//define("LAN_112", "Dirección de e-mail registrada en este sitio");
 define("LAN_213", "El nombre de usuario/e-mail no fue encontrado en la base de datos.");
 define("LAN_214", "Incapaz de restablecer contraseña");
 define("LAN_218", "Tu nombre de usuario es:");
@@ -35,6 +38,7 @@ define("LAN_FPW18", "Pedido de restablecimiento de contraseña");
 define("LAN_FPW19", "No se pudo enviar el e-mail ");
 define("LAN_FPW20", "Enviar e-mail tuvo éxito");
 define("LAN_FPW21", "Usuario hace clic en el enlace de restablecimiento de contraseña");
+define("LAN_FPW22", "Dirección de correo electrónico registrada en este sitio web");
 define("LAN_FPW_100", "¿Olvidaste tu contraseña?");
 define("LAN_FPW_101", "No te preocupes. Introduce tu dirección de email abajo y le enviaremos un e-mail de instrucciones para la recuperación.");
 define("LAN_FPW_102", "Restablecer contraseña");
