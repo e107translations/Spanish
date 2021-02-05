@@ -9,8 +9,11 @@
 |        $Author: Administrador $
 +---------------------------------------------------------------+
 */
+if(!defined('PAGE_NAME'))
+{
+	define("PAGE_NAME", "Subir");
+}
 
-define("PAGE_NAME", "Subir");
 define("LAN_UL_001", "Dirección de correo electrónico no válida");
 define("LAN_UL_002", "Usted no tiene los permisos correctos para subir archivos a este servidor.");
 define("LAN_UL_020", "Errores");
@@ -43,11 +46,10 @@ define("LAN_413", "Descripción");
 define("LAN_414", "Demo de");
 define("LAN_415", "Escriba la dirección URL al sitio donde se puede ver demo");
 define("LAN_416", "Enviar y cargar");
-define("LAN_417", "Subir archivo");
+//define("LAN_417", "Subir archivo");
 define("LAN_418", "Tamaño del archivo máximo absoluto:");
 define("DOWLAN_11", "Categoría");
 define("LAN_419", "Tipos de archivo permitidos");
 define("LAN_420", "los campos son obligatorios");
+define("LAN_UL_039", "Enviar y cargar"); // LAN_416
 
-
-?>
