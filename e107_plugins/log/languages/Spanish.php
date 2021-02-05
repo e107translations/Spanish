@@ -9,8 +9,11 @@
 |        $Author: tgtje $
 +---------------------------------------------------------------+
 */
+if(!defined('PAGE_NAME')) // TODO FIX ME - use English_global.php
+{
+	define("PAGE_NAME", "Estadísticas");
+}
 
-define("PAGE_NAME", "Estadísticas");
 define("ADSTAT_L1", "Este plugin se registro todas las visitas a su sitio y construir pantallas de Estadística detallada basadas en la información recopilada.");
 define("ADSTAT_L2", "El registrador de estadísticas se ha instalado correctamente. Para convertir tus estadísticas existentes al nuevo sistema, por favor <a href=''.e_PLUGIN.'log/update_routine.php'>haga clic aquí para ejecutar la rutina de actualización</a>.");
 define("ADSTAT_L3", "Registro de estadística");
