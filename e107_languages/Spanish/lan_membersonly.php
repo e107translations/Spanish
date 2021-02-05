@@ -3,8 +3,11 @@
 // Bing-Translated Language file 
 // Generated for e107 v2.x by the Multi-Language Plugin
 // https://github.com/e107inc/multilan
+if(!defined('PAGE_NAME'))
+{
+	define("PAGE_NAME", "Sólo para miembros");
+}
 
-define("PAGE_NAME", "Miembros de");
 define("LAN_MEMBERS_0", "área restringida");
 define("LAN_MEMBERS_1", "Esta es un área restringida.");
 define("LAN_MEMBERS_2", "Para acceder por favor [iniciar sesión]");
