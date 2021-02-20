@@ -65,3 +65,4 @@ define("LANG_LAN_151", "Disponible");
 define("LANG_LAN_152", "Cortesía del [equipo de traducciones de e107]");
 define("LANG_LAN_153", "Prelanzamiento");
 define("LANG_LAN_154", "El Paquete de Idioma ha sido creado. Ahora puedes enviarlo al repositorio Github como se indica [aquí].");
+define("LANG_LAN_155", "Requiere la instalación de paquetes de idiomas adicionales");
