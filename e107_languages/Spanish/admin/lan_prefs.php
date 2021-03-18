@@ -270,5 +270,5 @@ define("PRFLAN_SESSION_HANDLER_FILES_NONBLOCKING", "Archivos (sin bloqueo)");
 define("PRFLAN_283", "Mostrar etiquetas de la barra de navegación");
 define("PRFLAN_284", "Contraer la barra de navegación por defecto");
 define('PRFLAN_285', "Mostrar consejos de ayuda de campo");
-define("PRFLAN_286", "Al pasar el ratón por el campo");
-define("PRFLAN_287", "Si pasa el ratón por encima de un icono de ayuda a la izquierda del campo.");
+//define("PRFLAN_286", "Al pasar el ratón por el campo");
+//define("PRFLAN_287", "Si pasa el ratón por encima de un icono de ayuda a la izquierda del campo.");
