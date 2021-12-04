@@ -37,6 +37,3 @@ define("SUBNEWSLAN_9", "Palabras clave");
 define("SUBNEWSLAN_11", "Descripción de Meta");
 define("SUBNEWSLAN_12", "Utilizado por Facebook, etc.");
 define("SUBNEWSLAN_13", "URL de los medios");
-
-
-?>
