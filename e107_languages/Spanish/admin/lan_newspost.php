@@ -147,3 +147,4 @@ define("LAN_NEWS_108", "La URL de SEF es diferente al título de su artículo de
 define("LAN_NEWS_109", "Inicie una notificación por correo electrónico cuando envíe este formulario.");
 define("LAN_NEWS_110", "Tiempo de espera de caché de noticias");
 define("LAN_NEWS_111", "Tiempo en minutos. Sólo se aplica cuando la caché del sistema está habilitada.");
+define("LAN_NEWS_112", "Seleccione el formato de la URL. O bien el número de registros (por ejemplo, página=20, página=40, página=60, etc.) o el número de páginas (por ejemplo, página=1, página=2, página=3, etc.). Advertencia: Si se modifican algunas URL de noticias, los motores de búsqueda tendrán que volver a indexarlas.");
