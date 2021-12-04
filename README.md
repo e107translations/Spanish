@@ -1,2 +1,2 @@
-Spanish language pack updated for version 2.3.0
+Spanish language pack updated for version 2.3.1
 
