@@ -52,4 +52,4 @@ define("DOWLAN_11", "Categoría");
 define("LAN_419", "Tipos de archivo permitidos");
 define("LAN_420", "los campos son obligatorios");
 define("LAN_UL_039", "Enviar y cargar"); // LAN_416
-
+define("LAN_UL_040", "Cargar archivo");
