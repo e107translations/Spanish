@@ -33,3 +33,4 @@ define("GSLAN_36", "También puede introducir enlaces individuales manualmente h
 define("GSLAN_37", "Una vez que tengas algunas entradas, ir a [URL] y escriba la dirección URL siguiente-> <b>'. SITEURL.' gsitemap.php</b> - si este enlace no se ve bien a usted, por favor asegúrese de que su url del sitio es correcta en admin-> preferencias");
 define("GSLAN_38", "Para obtener más información sobre protocolo Google Sitemap, vaya a [URL].");
 define("GSLAN_39", "¿No hay enlaces en el mapa del sitio - importar sitelinks?");
+define("GSLAN_50", "Visible al público");
