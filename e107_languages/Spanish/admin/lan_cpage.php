@@ -52,6 +52,3 @@ define("CUSLAN_77", "elimina");
 define("CUSLAN_78", "No podía eliminar el menú con la ruta");
 define("CUSLAN_79", "Debe introducir ya sea un título de página o un nombre de menú.");
 define("CUSLAN_80", "Subtítulo");
-
-
-?>
