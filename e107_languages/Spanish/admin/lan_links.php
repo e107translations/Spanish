@@ -25,6 +25,11 @@ define("LCLAN_108", "Algunas selecciones que se omite - se puede establecer el e
 define("LCLAN_109", "Por favor, elija uno de los padres");
 define("LCLAN_110", "Por favor, elija un módulo generador");
 define("LCLAN_111", "Datos del módulo generador no válido");
+define("LCLAN_112", "1 - Principal");
+define("LCLAN_113", "2 - Barra lateral");
+define("LCLAN_114", "3 - Pie de página");
+define("LCLAN_115", "Alt");
+define("LCLAN_116", "(No asignado)");
 define("LINKLAN_1", "Se abrirá una ventana de 800 x 600");
 define("LINKLAN_4", "Sublink generador");
 define("LINKLAN_5", "Generar Sublinks");
@@ -33,6 +38,3 @@ define("LINKLAN_7", "¿Crear sublinks bajo que link?");
 define("LINKLAN_8", "Categorías de noticias");
 define("LINKLAN_9", "Descargar categorías");
 define("LINKLAN_10", "Shortcodes del tema");
-
-
-?>
