@@ -417,3 +417,5 @@ define("LAN_ROBOTS_NOARCHIVE", "Evitar que las copias en caché de este artícul
 define("LAN_ROBOTS_NOIMAGE", "Evitar que los motores de búsqueda indexen las imágenes de este artículo.");
 define("LAN_NAVIGATION", "Navegación");
 define("LAN_NAVIGATION_LINKS", "Enlaces de navegación");
+define("LAN_PAGINATION", "Paginación");
+define("LAN_X_CHARS_REMAINING", "[x] caracteres restantes");
