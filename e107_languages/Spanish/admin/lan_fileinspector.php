@@ -68,6 +68,7 @@ define("FR_LAN_26", "¡ ADVERTENCIA! Conocida inseguridad detectada!");
 define("FR_LAN_27", "Hay archivos en el servidor que se saben que son explotables y deben eliminarse inmediatamente.");
 define("FR_LAN_28", "Archivos conocidos inseguros");
 define("FR_LAN_32", "¡Primero debe ejecutar una exploración!");
+define("FR_LAN_33", "Comenzar");
 define("FS_LAN_1", "Crear instantánea");
 define("FS_LAN_2", "Ruta de acceso absoluta del directorio raíz para crear imagen de");
 define("FS_LAN_3", "Crear instantáneas de plugin: (tu plugin se anunciará cuando existe un archivo de escritura e_inspect.php en su directorio de raíz de plugins).");
@@ -80,6 +81,3 @@ define("FS_LAN_9", "Instantánea");
 define("FS_LAN_10", "Snapshot creado");
 define("FS_LAN_11", "La instantánea se ha creado correctamente.");
 define("FS_LAN_12", "Volver a principal página");
-
-
-?>
