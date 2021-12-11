@@ -45,4 +45,3 @@ define("SEALAN_48", "Esta configuración sólo se aplica cuando el método de ti
 define("SEALAN_49", "Si su sitio incluye Idiomas ideográficos como chino y japonés, se debe utilizar el método de tipo PHP.");
 
 
-?>

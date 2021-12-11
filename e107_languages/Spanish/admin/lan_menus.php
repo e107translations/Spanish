@@ -54,4 +54,3 @@ define("MENLAN_59", "Area [x]");
 define("MENLAN_60", "Este tema utiliza elementos obsoletos. Todas las variables [x]HEADER y [x]FOOTER deben eliminarse de theme.php.");
 
 
-?>

@@ -44,4 +44,3 @@ define("LANG_LAN_120", "Por favor, asegúrese de que está utilizando nombres de
 define("LANG_LAN_AGR", "Nota: Mediante el uso de estas herramientas usted acepta compartir el paquete de idioma (s) con la comunidad de e107.");
 
 
-?>

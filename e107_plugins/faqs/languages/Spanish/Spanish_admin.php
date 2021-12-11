@@ -23,4 +23,3 @@ define("LANA_FAQ_PREF_2", "'Pregunta' está limitado a");
 define("LANA_FAQ_PREF_3", "Diseño clásico de uso");
 
 
-?>

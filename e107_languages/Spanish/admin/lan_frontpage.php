@@ -23,4 +23,3 @@ define("FRTLAN_57", "Error de software");
 define("FRTLAN_61", "Seleción");
 
 
-?>

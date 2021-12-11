@@ -79,7 +79,7 @@ define("ADLAN_PM_86", "Clase VIP");
 define("ADLAN_PM_87", "Los usuarios de esta clase sólo pueden recibir mensajes de otros usuarios de esta clase. Anula la preferencia anterior.");
 define("ADLAN_PM_88", "El usuario puede enviar los PM a");
 define("ADLAN_PM_89", "(Cualquier usuario con la misma clase)");
-define("ADLAN_PM_90", "Por favor, introduzca un destinatario en el campo "Para".");
+define("ADLAN_PM_90", "Por favor, introduzca un destinatario en el campo 'Para'.");
 define("ADLAN_PM_91", "Prueba");
 define("ADLAN_PM_92", "¡Se ha enviado un correo electrónico de prueba!");
 define("ADLAN_PM_93", "¡El correo electrónico de prueba falló!");

@@ -25,4 +25,3 @@ define("TREE_L7", "Clase CSS para usar en enlaces normales");
 define("TREE_L8", "Clase CSS para usar en enlaces abiertos");
 define("TREE_L9", "Use la clase spacer entre los enlaces principales");
 
-?>

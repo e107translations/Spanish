@@ -29,4 +29,3 @@ define("RATELAN_VERYGOOD", "Muy bien");
 define("RATELAN_EXCELLENT", "Excelente");
 
 
-?>

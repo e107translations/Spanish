@@ -261,7 +261,7 @@ define("PRFLAN_277", "Ajustes de GDPR");
 define("PRFLAN_278", "URL de la Política de Privacidad");
 define("PRFLAN_279", "¡Asegúrate de que la url existe! Es mejor usar una url absoluta. Esta configuración se utilizará en todos los lugares que requieran un consentimiento del usuario (por ejemplo, registro, formulario/menú de contacto, etc.).");
 define("PRFLAN_280", "URL de los términos y condiciones del sitio web");
-define("PRFLAN_281", "Los 2 enlaces anteriores se utilizan en varias páginas de este sitio (por ejemplo, el formulario/menú de registro y contacto).\nPor favor, crea 2 páginas (si no lo has hecho ya) que contengan tu "Política de privacidad" y los "Términos y condiciones" del sitio web. \Copie las direcciones URL de estos sitios web en los campos de arriba (por ejemplo, /página/política de privacidad o /página/términos y condiciones).\n¡Sólo asegúrate de que las páginas y urls existan y funcionen!");
+define("PRFLAN_281", "Los 2 enlaces anteriores se utilizan en varias páginas de este sitio (por ejemplo, el formulario/menú de registro y contacto).\nPor favor, crea 2 páginas (si no lo has hecho ya) que contengan tu 'Política de privacidad' y los 'Términos y condiciones' del sitio web. \Copie las direcciones URL de estos sitios web en los campos de arriba (por ejemplo, /página/política de privacidad o /página/términos y condiciones).\n¡Sólo asegúrate de que las páginas y urls existan y funcionen!");
 define("PRFLAN_282", "Método de ahorro de sesión");
 define("PRFLAN_SESSION_HANDLER_LABEL", "Manejador de sesión");
 define("PRFLAN_SESSION_HANDLER_DATABASE", "Base de datos (sin bloqueo)");

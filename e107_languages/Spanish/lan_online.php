@@ -61,4 +61,3 @@ define("REVIEW", "Revisión");
 define("OTHER", "Otra página:");
 
 
-?>

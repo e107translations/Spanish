@@ -119,4 +119,3 @@ define("DBLAN_120", "Inicio de copia de seguridad ....");
 define("DBLAN_121", "Mover [x] a [y].");
 
 
-?>

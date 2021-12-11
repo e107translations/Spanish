@@ -37,4 +37,3 @@ define("CACLAN_29", "Consolidar y almacenar en caché los archivos javascript y 
 define("CACLAN_30", "Vaciar JS/CSS Cache");
 
 
-?>

@@ -27,4 +27,3 @@ define("NT_LAN_ND_1", "Noticias artículo borrados");
 define("NT_LAN_ND_2", "Id de artículo de noticias eliminados");
 
 
-?>

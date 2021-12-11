@@ -41,4 +41,3 @@ define("NF_LAN_2", "Archivo subido por el usuario");
 define("LAN_NOTIFY_01", "Eventos");
 
 
-?>

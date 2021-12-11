@@ -24,4 +24,3 @@ define("LAN_FAQS_ASK_A_QUESTION", "Haz una pregunta");
 define("LAN_FAQS_FAQ", "Preguntas más frecuentes");
 
 
-?>

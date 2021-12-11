@@ -73,4 +73,3 @@ define("LAN_TAG_URL_DEFAULT_LABEL", "Por defecto");
 define("LAN_TAG_URL_DEFAULT_DESCR", "Ejemplo: http://yoursite.com/tagwords/some-tag");
 
 
-?>

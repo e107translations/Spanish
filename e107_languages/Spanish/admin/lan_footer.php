@@ -32,4 +32,3 @@ define("FOOTLAN_19", "Hora del servidor");
 define("FOOTLAN_20", "Nivel de seguridad");
 
 
-?>

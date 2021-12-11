@@ -93,4 +93,3 @@ define("LAN_EURL_KEY", "Llave");
 define("LAN_EURL_TABLE", "Tabla");
 
 
-?>

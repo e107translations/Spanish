@@ -19,4 +19,3 @@ define("WMLAN_12", "Ayuda del mensaje de bienvenida");
 define("WMLAN_13", "Esta página le permite configurar un mensaje que aparecerá en la parte superior de su página principal todo el tiempo que esté activado. Puede configurar un mensaje diferente para los invitados, miembros registrados y registrados y administradores.");
 
 
-?>

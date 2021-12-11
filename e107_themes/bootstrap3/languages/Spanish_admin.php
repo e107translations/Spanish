@@ -23,4 +23,3 @@ define("LAN_THEMEPREF_09", "Superior");
 define("LAN_THEMEPREF_10", "Fondo");
 
 
-?>

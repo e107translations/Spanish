@@ -26,4 +26,3 @@ define("LAN_7", "Hilos más activos");
 define("LAN_8", "Los mejores publicadores");
 
 
-?>

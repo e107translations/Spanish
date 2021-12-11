@@ -148,7 +148,7 @@ define("DOWLAN_HELP_7", "Ayuda para el espejo");
 define("DOWLAN_HELP_8", "Ayuda para cargar lista");
 define("DOWLAN_HELP_9", "Ayuda para subir tipos");
 define("DOWLAN_HELP_10", "Ayuda para las opciones de carga");
-define("DOWLAN_HELP_11", "Haz clic en el botón "Suprimir" para eliminar el informe.[br][br]Haz clic en el botón "Ver" para gestionar la descarga.[br][br]Para que te notifiquen cualquier nuevo informe, consulta la [configuración de notificación].");
+define("DOWLAN_HELP_11", "Haz clic en el botón 'Suprimir' para eliminar el informe.[br][br]Haz clic en el botón 'Ver' para gestionar la descarga.[br][br]Para que te notifiquen cualquier nuevo informe, consulta la [configuración de notificación].");
 define("LAN_DL_SECURITY_DESCRIPTION", "Las descargas pueden hacer uso de las funciones de protección de URL del lado del servidor para evitar los enlaces directos y/o hacer cumplir la caducidad del enlace. " . "Esta sección debe ser configurada antes de que el servidor de descargas se configure para reducir la posibilidad de interrupción de las descargas.");
 define("LAN_DL_SECURITY_MODE", "Modo de protección de URL");
 define("LAN_DL_SECURITY_MODE_NONE", "Ninguno (por defecto)");

@@ -27,4 +27,3 @@ define("LAN_EFORM_015", "editar actual");
 define("LAN_EFORM_016", "Después de enviar:");
 
 
-?>

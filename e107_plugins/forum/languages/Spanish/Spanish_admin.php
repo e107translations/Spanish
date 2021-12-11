@@ -109,7 +109,7 @@ define("FORLAN_184", "Autorización de creación del hilo de rosca");
 define("FORLAN_185", "Indica que puede crear nuevos subprocesos");
 define("FORLAN_186", "Hilos por página");
 define("FORLAN_187", "Número de hilos que se muestran por página");
-define("FORLAN_189", "Haz clic en el botón "Suprimir" para eliminar el informe. [br][br]Haz clic en el botón "Ver" para ver el tema/hilo. [br][br]Para ser notificado de cualquier nuevo informe, consulta la [configuración de notificación].");
+define("FORLAN_189", "Haz clic en el botón 'Suprimir' para eliminar el informe. [br][br]Haz clic en el botón 'Ver' para ver el tema/hilo. [br][br]Para ser notificado de cualquier nuevo informe, consulta la [configuración de notificación].");
 define("FORLAN_200", "Seguimiento del tema");
 define("FORLAN_201", "Habilite esto para permitir a sus usuarios rastrear los temas.");
 define("FORLAN_202", "Notificaciones por correo electrónico de seguimiento de temas");
